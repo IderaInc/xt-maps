@@ -1,0 +1,583 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tobe",
+				"toBeTruthy"
+			],
+			[
+				"to",
+				"toBe"
+			],
+			[
+				"dev",
+				"devDependencies"
+			],
+			[
+				"DEPLO",
+				"DEPLOYMENT_URL"
+			],
+			[
+				"A",
+				"ARTEFACT_LOC"
+			],
+			[
+				"exis",
+				"existsSync"
+			],
+			[
+				"exi",
+				"existsSync"
+			],
+			[
+				"toBe",
+				"toBeJSONEqual"
+			],
+			[
+				"jshint",
+				"jshintConfig"
+			],
+			[
+				"con",
+				"conversion"
+			],
+			[
+				"conve",
+				"converter"
+			],
+			[
+				"api",
+				"apiKey"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"Conver",
+				"Conversion"
+			],
+			[
+				"req",
+				"requestOptions"
+			],
+			[
+				"a",
+				"apiKey"
+			],
+			[
+				"ap",
+				"apiKeyHeaderName"
+			],
+			[
+				"reu",
+				"requestOptions"
+			],
+			[
+				"lis",
+				"listUrlPath"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ite",
+				"item3dlighting"
+			],
+			[
+				"cons",
+				"constructor	@constructor"
+			],
+			[
+				"stat",
+				"statusCode"
+			],
+			[
+				"has",
+				"hasOwnProperty"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"de",
+				"defaultOptions"
+			],
+			[
+				"read",
+				"readabilityUrl"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"Reada",
+				"ReadabilityOptions"
+			],
+			[
+				"start",
+				"startTime"
+			],
+			[
+				"stop",
+				"stopTime"
+			],
+			[
+				"random",
+				"randomrect"
+			],
+			[
+				"arrayS",
+				"arraySlice"
+			],
+			[
+				"pr",
+				"prototype"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"jshint",
+				"JSHint"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"projec",
+				"Project: Refresh Folders"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"for",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"node",
+			"ls",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-mapdefinitions/develop/xt-mapdefinitions.sublime-project",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-mapdefinitions/xt-mapdefinitions.sublime-project",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-mapdefinitions/.npmignore",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-mapdefinitions/.gitignore",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-mapdefinitions/js/maps/FusionCharts.HC.afghanistan.js",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-edge/.gitmodules",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-edge/.npmignore",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-edge/develop/ci/drone/drone",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-edge/.gitignore",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-edge/develop/tests/basic-package-spec.js",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-edge/package.json",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-edge/develop/tests/vendors-integrity-spec.js",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-edge/develop/ci/drone/clean-artefacts",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-edge/develop/ci/drone/generate-checksums",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-edge/develop/ci/lint/lint",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-edge/develop/ci/README.md",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-edge/develop/ci/release/release",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-edge/develop/ci/package/package",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-edge/develop/ci/CI.md",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-edge/develop/ci/drone/server-status",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-edge/develop/ci/test/test",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-edge/develop/ci/docs/docs",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-edge/develop/ci/build/jslink.conf",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-edge/develop/ci/build/build",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-edge/npm-debug.log",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-edge/develop/src/core/fusioncharts.constructor.js",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-edge/develop/xt-edge.sublime-project",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-edge/develop/tests/custom-matchers-spec.js",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-edge/develop/tests/repository/basic-package-spec.js",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-edge/develop/build/test/test",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-edge/develop/build/lint/lint",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-edge/develop/build/test",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-edge/develop/tests/custom-matchers.js",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-edge/develop/ci/test",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-edge/develop/ci/closure-variable-map",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-edge/tests/repository/basic-package-spec.js",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-red/source/xt-red.sublime-project",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-edge/LICENSE.md",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-edge/README.md",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-red-archive/docs/makedoc",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-red-archive/docs/jsdoc.conf",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-red-archive/.gitignore",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-red-archive/package.json",
+		"/Users/shamasis/Projects/github/shamasis/cloudconvert/develop/ci/jsdoc.conf",
+		"/Users/shamasis/Projects/github/shamasis/usvg/package.json",
+		"/Users/shamasis/Projects/github/shamasis/usvg/usvg.js",
+		"/Users/shamasis/Projects/github/shamasis/usvg/tests/package-spec.js",
+		"/Users/shamasis/Projects/github/shamasis/usvg/develop/test",
+		"/Users/shamasis/Projects/github/shamasis/usvg/develop/jsdoc.conf",
+		"/Users/shamasis/Projects/github/shamasis/usvg/develop/build",
+		"/Users/shamasis/Projects/github/shamasis/usvg/develop/doc",
+		"/Users/shamasis/Projects/github/shamasis/usvg/.gitignore",
+		"/Users/shamasis/Projects/github/shamasis/usvg/develop/usvg.sublime-project",
+		"/Users/shamasis/Projects/github/shamasis/cloudconvert/package.json",
+		"/Users/shamasis/Downloads/gitinspector-0.3.1/gitinspector/basedir.pyc",
+		"/Users/shamasis/Projects/github/fusioncharts/redraphael/source/components/raphael.shadow.js",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-red-archive/source/modules/renderer/javascript/FusionCharts.JS-raphaelshadow.js",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-red-archive/source/xt-red.sublime-project",
+		"/Users/shamasis/Projects/github/fusioncharts/redraphael/tests/cubepath.html",
+		"/Users/shamasis/Projects/github/fusioncharts/redraphael/redraphael.sublime-project",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-red-archive/source/modules/renderer/javascript/FusionCharts.JS-raphaelshapes.js",
+		"/Users/shamasis/Projects/github/fusioncharts/redraphael/source/components/raphael.polypath.js",
+		"/Users/shamasis/Projects/github/fusioncharts/redraphael/package.json",
+		"/Users/shamasis/Projects/github/fusioncharts/redraphael/.gitignore",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-red-archive/source/modules/renderer/javascript/FusionCharts.JS-renderer.js",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-red-archive/source/modules/renderer/javascript/FusionCharts.JS-base.js",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-red-archive/source/properties.sublime-project",
+		"/Users/shamasis/Projects/github/shamasis/readability/source/readability.js",
+		"/Users/shamasis/Desktop/rt resize/index.html",
+		"/Users/shamasis/Projects/github/shamasis/cloudconvert.sublime-project",
+		"/Users/shamasis/Projects/github/shamasis/readability.sublime-project",
+		"/Users/shamasis/Projects/github/shamasis/cloud-convert/source/cloud-convert.js",
+		"/Users/shamasis/Desktop/ae_scan_mac.sh",
+		"/Users/shamasis/Desktop/git-svn-sync/auth2.txt",
+		"/Users/shamasis/Desktop/git-svn-sync/auth.txt",
+		"/Users/shamasis/Projects/FusionCharts XT/RED/trunk/build/compiled/standard/standard.bat",
+		"/Users/shamasis/Projects/FusionCharts XT/RED/trunk/build/compiled/standard/standard.bat.mine",
+		"/Users/shamasis/Desktop/general-purpose-charts/multi-column/student marks-divergent.html",
+		"/Users/shamasis/Projects/FusionCharts XT/RED/trunk/temp/3.4.0-beta/sample/test-maps.html",
+		"/Users/shamasis/Projects/github/fusioncharts/redraphael.sublime-project",
+		"/Users/shamasis/Projects/github/fusioncharts/redraphael/source/components/raphael.canvas.js",
+		"/Users/shamasis/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/Users/shamasis/Projects/FusionCharts XT/RED/trunk/docs/jsdoc.conf",
+		"/Users/shamasis/Projects/FusionCharts XT/RED/trunk/docs/jsdoc.conf.r9477",
+		"/Users/shamasis/Projects/FusionCharts XT/RED/trunk/docs/jsdoc/templates/docstrap/static/styles/sunlight.default.css",
+		"/Users/shamasis/Projects/FusionCharts XT/RED/trunk/docs/jsdoc/templates/docstrap/static/styles/site.spacelab.css",
+		"/Users/shamasis/Projects/FusionCharts XT/RED/trunk/docs/jsdoc.json",
+		"/Users/shamasis/Projects/github/shamasis/readability/jsdoc.json",
+		"/Users/shamasis/Projects/github/shamasis/readability/LICENSE.md",
+		"/Users/shamasis/Projects/github/shamasis/magfy/source/test.js",
+		"/Users/shamasis/Projects/github/shamasis/magfy/source/readability.js",
+		"/Users/shamasis/Projects/github/shamasis/magfy.sublime-project",
+		"/Users/shamasis/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/shamasis/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/shamasis/Projects/github/shamasis/magfy/makedoc",
+		"/Users/shamasis/Projects/github/shamasis/magfy/jsdocs.json",
+		"/Users/shamasis/Projects/github/shamasis/magfy/source/jsdocs.json",
+		"/Users/shamasis/Projects/github/shamasis/magfy/docs/styles/jsdoc-default.css",
+		"/Users/shamasis/Projects/github/shamasis/magfy/magfy.sublime-project",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/redraphael/source/raphael.core.js",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/redraphael.sublime-project",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/redraphael/tests/jasmine-standalone-1/SpecRunner.html",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/redraphael/tests/jasmine-standalone-1/spec/basic.js",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/redraphael/tests/jasmine-standalone-1/spec/specSetup.js",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/redraphael/source/raphael.canvas.js",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/redraphael-source.html",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/redraphael/.gitignore",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/redraphael/source/raphael.svg.js",
+		"/Users/shamasis/Projects/bitbucket/fusioncharts/redraphael/source/raphael.vml.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-edge/develop/ci",
+			"/Users/shamasis/Projects/bitbucket/fusioncharts/xt-red-archive/source/modules/renderer/javascript",
+			"/Users/shamasis/Projects/bitbucket/fusioncharts/redraphael/source"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"`",
+			"[[",
+			"*",
+			"[[",
+			"build",
+			"'",
+			"DR",
+			"drone",
+			"\"",
+			"./",
+			"getSym",
+			"item3d",
+			"symbol3d",
+			"symbol3DLighting",
+			".legend",
+			"getSym",
+			"spline",
+			"getSymbolPath",
+			"legendico",
+			".legend",
+			".addSymbol",
+			"addSymbol",
+			"symb",
+			"simbols.",
+			"&",
+			"undef",
+			"request",
+			"”",
+			"“",
+			"nishant",
+			"(.*)\\n(.*)\\n(.*)\\n\\n",
+			"\\n\\n[\\s\\S]*?\\n\\n",
+			"\\s*Count.*|Remote Crowd Directory.*|Last:.*",
+			"(.*)\\n(.*)\\n(.*)\\n\\n",
+			"(.*)\\n(.*)\\n(.*)",
+			"support\\-?.*",
+			"quality-testers\\n",
+			".*?\\-?developers\\n",
+			"users\\n",
+			"js-interns\\n",
+			"\\n\\n\\n.*\\n.*",
+			"Last:.*",
+			"Remote Crowd Directory.*",
+			"\\s*Count.*",
+			"firebug",
+			"\"../source/modules/renderer/javascript/FusionCharts.JS-interface.js\"",
+			"sunlight-container",
+			"getParserUrl",
+			"parserkey",
+			"ReadabilityParser",
+			"Readability",
+			"ReadabilityParser",
+			"Readability",
+			"ruler",
+			"margin:",
+			"3em",
+			".container-overview",
+			".conta",
+			"dd ",
+			"01em",
+			" p ",
+			" p",
+			"p {",
+			"_parseDots =",
+			"getBoundingClientRect",
+			".X =",
+			"getBBox",
+			"getBBox =",
+			"arraySpl",
+			"Array.prototype.splice",
+			"Array.prototype.slice",
+			",\n",
+			"array.prototype.sl",
+			"array.prototype.spl",
+			"array.prototype.sl",
+			"arraySlice",
+			"\"object\"",
+			"paperproto.",
+			"random",
+			"_engine.append",
+			"_engine.",
+			"engine.get",
+			"_engine.",
+			".toFront",
+			".appendChild",
+			"IS_UR",
+			"IS_",
+			"/#.*?$/",
+			"R._is",
+			"BLANK",
+			"BLANK\"",
+			"BLANK",
+			"OBJECTS",
+			"\"[",
+			"paperptoto.group ="
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"",
+			"'",
+			"\"",
+			"$1 = $2 <$3>\\n",
+			"\\n\\n",
+			"",
+			"$1 = $2 <$3>\\n",
+			"$1 = $2 <$3>",
+			"",
+			"Parser",
+			"object"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "xt-mapdefinitions.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"xt-red",
+				"~/Projects/bitbucket/fusioncharts/xt-red/source/xt-red.sublime-project"
+			],
+			[
+				"xt-re",
+				"~/Projects/bitbucket/fusioncharts/xt-red/source/xt-red.sublime-project"
+			],
+			[
+				"jslink",
+				"~/Projects/github/fusioncharts/jslink/src/jslink.sublime-project"
+			],
+			[
+				"jsli",
+				"~/Projects/github/fusioncharts/jslink/src/jslink.sublime-project"
+			],
+			[
+				"",
+				"~/Projects/github/fusioncharts/redraphael.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

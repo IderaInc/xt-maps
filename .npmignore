@@ -1,1 +1,4 @@
+*.subline-*
+!/develop/*.sublime-project
+
 /develop
