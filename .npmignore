@@ -1,4 +1,6 @@
-*.subline-*
-!/develop/*.sublime-project
+node_modules
+npm-debug.log
+
+*.sublime-*
 
 /develop
