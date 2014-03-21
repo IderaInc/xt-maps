@@ -4,7 +4,7 @@
  * License Information at <http://www.fusioncharts.com/license>
  *
  * @author FusionCharts Technologies LLP
- * @meta package_map_pack
+ * @meta package_map_pack core
  * @id fusionmaps.CentralEuropeanRegion.20.12-18-2012 04:19:41
  */
 FusionCharts.register("module", ["private", "modules.renderer.js-centraleuropeanregion", function () {

@@ -4,7 +4,7 @@
  * License Information at <http://www.fusioncharts.com/license>
  *
  * @author FusionCharts Technologies LLP
- * @meta package_map_pack
+ * @meta package_map_pack core
  * @id fusionmaps.KosovoDistricts.17.09-06-2012 09:09:35
  */
 FusionCharts(["private", "modules.renderer.js-kosovodistricts", function () {

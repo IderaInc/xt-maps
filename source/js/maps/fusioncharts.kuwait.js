@@ -4,7 +4,7 @@
  * License Information at <http://www.fusioncharts.com/license>
  *
  * @author FusionCharts Technologies LLP
- * @meta package_map_pack
+ * @meta package_map_pack core
  * @id fusionmaps.Kuwait.20.12-20-2012 07:22:47
  */
 FusionCharts(["private", "modules.renderer.js-kuwait", function () {

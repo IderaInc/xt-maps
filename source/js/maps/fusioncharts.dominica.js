@@ -4,7 +4,7 @@
  * License Information at <http://www.fusioncharts.com/license>
  *
  * @author FusionCharts Technologies LLP
- * @meta package_map_pack
+ * @meta package_map_pack core
  * @id fusionmaps.Dominica.20.12-07-2012 11:12:57
  */
 FusionCharts(["private", "modules.renderer.js-dominica", function () {

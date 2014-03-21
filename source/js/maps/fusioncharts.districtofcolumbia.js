@@ -4,7 +4,7 @@
  * License Information at <http://www.fusioncharts.com/license>
  *
  * @author FusionCharts Technologies LLP
- * @meta package_map_pack
+ * @meta package_map_pack core
  * @id fusionmaps.DistrictofColumbia.20.10-30-2012 06:16:36
  */
 FusionCharts(["private", "modules.renderer.js-districtofcolumbia", function () {

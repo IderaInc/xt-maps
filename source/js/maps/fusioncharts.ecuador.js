@@ -4,7 +4,7 @@
  * License Information at <http://www.fusioncharts.com/license>
  *
  * @author FusionCharts Technologies LLP
- * @meta package_map_pack
+ * @meta package_map_pack core
  * @id fusionmaps.Ecuador.20.10-31-2012 11:17:58
  */
 FusionCharts(["private", "modules.renderer.js-ecuador", function () {

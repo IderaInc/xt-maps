@@ -4,7 +4,7 @@
  * License Information at <http://www.fusioncharts.com/license>
  *
  * @author FusionCharts Technologies LLP
- * @meta package_map_pack
+ * @meta package_map_pack core
  * @id fusionmaps.GuineaBissau.20.10-30-2012 06:30:34
  */
 FusionCharts(["private", "modules.renderer.js-guineabissau", function () {

@@ -4,7 +4,7 @@
  * License Information at <http://www.fusioncharts.com/license>
  *
  * @author FusionCharts Technologies LLP
- * @meta package_map_pack
+ * @meta package_map_pack core
  * @id fusionmaps.Europe.20.12-18-2012 04:19:41
  */
 FusionCharts(["private", "modules.renderer.js-europe", function () {

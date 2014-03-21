@@ -4,7 +4,7 @@
  * License Information at <http://www.fusioncharts.com/license>
  *
  * @author FusionCharts Technologies LLP
- * @meta package_map_pack
+ * @meta package_map_pack core
  * @id fusionmaps.Alberta.20.10-30-2012 06:07:18
  */
 FusionCharts.register("module", ["private", "modules.renderer.js-alberta", function () {

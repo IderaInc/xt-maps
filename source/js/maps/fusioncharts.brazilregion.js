@@ -4,7 +4,7 @@
  * License Information at <http://www.fusioncharts.com/license>
  *
  * @author FusionCharts Technologies LLP
- * @meta package_map_pack
+ * @meta package_map_pack core
  * @id fusionmaps.BrazilRegion.20.12-22-2012 10:27:02
  */
 FusionCharts.register("module", ["private", "modules.renderer.js-brazilregion", function () {

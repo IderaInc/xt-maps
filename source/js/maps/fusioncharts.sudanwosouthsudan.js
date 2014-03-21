@@ -1,10 +1,10 @@
-/*!
+/**!
  * @license FusionCharts JavaScript Library
  * Copyright FusionCharts Technologies LLP
  * License Information at <http://www.fusioncharts.com/license>
  *
  * @author FusionCharts Technologies LLP
- * @meta package_map_pack
+ * @meta package_map_pack core
  * @id fusionmaps.SudanWoSouthSudan.18.09-22-2012 02:48:36
  */
 

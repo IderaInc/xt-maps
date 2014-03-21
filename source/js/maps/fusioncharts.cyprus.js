@@ -4,7 +4,7 @@
  * License Information at <http://www.fusioncharts.com/license>
  *
  * @author FusionCharts Technologies LLP
- * @meta package_map_pack
+ * @meta package_map_pack core
  * @id fusionmaps.Cyprus.20.12-21-2012 08:14:45
  */
 FusionCharts.register("module", ["private", "modules.renderer.js-cyprus", function () {
