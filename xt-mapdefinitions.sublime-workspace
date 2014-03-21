@@ -538,6 +538,10 @@
 		"selected_items":
 		[
 			[
+				"xtmapde",
+				"~/Projects/bitbucket/fusioncharts/xt-mapdefinitions/develop/xt-mapdefinitions.sublime-project"
+			],
+			[
 				"xt-red",
 				"~/Projects/bitbucket/fusioncharts/xt-red/source/xt-red.sublime-project"
 			],

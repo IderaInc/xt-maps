@@ -4,7 +4,7 @@
  * License Information at <http://www.fusioncharts.com/license>
  *
  * @author FusionCharts Technologies LLP
- * @version fusioncharts/3.3.1-sr3.21100
+ * @meta package_map_pack core
  * @id fusionmaps.BrazilRegion.20.12-22-2012 10:27:02
  */
 FusionCharts(["private","modules.renderer.js-brazilregion",function(){var p=this,k=p.hcLib,n=k.chartAPI,h=k.moduleCmdQueue,a=k.injectModuleDependency,i="M",j="L",c="Z",f="Q",b="left",q="right",t="center",v="middle",o="top",m="bottom",s="maps",l=true&&!/fusioncharts\.com$/i.test(location.hostname),r=!!n.geo,d,e,u,g;

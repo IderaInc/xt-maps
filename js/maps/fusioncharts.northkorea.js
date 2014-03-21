@@ -4,7 +4,7 @@
  * License Information at <http://www.fusioncharts.com/license>
  *
  * @author FusionCharts Technologies LLP
- * @version fusioncharts/3.3.1-sr3.21100
+ * @meta package_map_pack core
  * @id fusionmaps.NorthKorea.20.12-18-2012 04:19:43
  */
 FusionCharts(["private","modules.renderer.js-northkorea",function(){var p=this,k=p.hcLib,n=k.chartAPI,h=k.moduleCmdQueue,a=k.injectModuleDependency,i="M",j="L",c="Z",f="Q",b="left",q="right",t="center",v="middle",o="top",m="bottom",s="maps",l=true&&!/fusioncharts\.com$/i.test(location.hostname),r=!!n.geo,d,e,u,g;
