@@ -8,6 +8,7 @@
 
     "keywords": [
         "fusioncharts",
+        "fusionmaps",
         "maps"
     ],
 
@@ -26,7 +27,8 @@
     },
 
     "scripts": {
-        "test": ""
+        "test": "develop/ci/test/test",
+        "build": "develop/ci/build/build"
     },
 
     "jshintConfig": {
