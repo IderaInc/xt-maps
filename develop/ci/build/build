@@ -9,7 +9,7 @@
 set -e
 
 # Configurations (BE CAREFUL to not end directories with a "/")
-SRC_DIR=develop/src; # source directory for theme files
+SRC_DIR=source; # source directory for theme files
 PREPC_DIR=out/_build; # temporary metascript-ed storage directory
 
 TARGET_DIR=out/build;
