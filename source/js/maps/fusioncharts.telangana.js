@@ -5,13 +5,13 @@
  *
  * @author FusionCharts Technologies LLP
  * @meta package_map_pack
- * @id fusionmaps.Telengana.17.09-16-2014 07:41:59
+ * @id fusionmaps.Telangana.17.09-16-2014 07:41:59
  */
 
 /*jslint browser: true, windows: false, continue: true, forin: true,
          plusplus: true, regexp: true*/
 /*global location, FusionCharts*/
-FusionCharts(["private", "modules.renderer.js-telengana", function () {
+FusionCharts(["private", "modules.renderer.js-telangana", function () {
 
     var global = this, // access global namespace
         lib = global.hcLib, // access html5 charting library
@@ -39,7 +39,7 @@ FusionCharts(["private", "modules.renderer.js-telengana", function () {
         count;
 
     geodefinitions = [{
-        name: "Telengana",
+        name: "Telangana",
         revision: 17,
         standaloneInit: true,
 
