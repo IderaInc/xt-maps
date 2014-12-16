@@ -7,7 +7,7 @@
  * @meta package_map_pack
  * @id fusionmaps.China3.18.08-07-2012 07:33:05
  */
-FusionCharts.register("module", ["private", "modules.renderer.highcharts-china3", function () {
+FusionCharts.register("module", ["private", "modules.renderer.js-china3", function () {
 
     var global = this, // access global namespace
         lib = global.hcLib, // access html5 charting library
