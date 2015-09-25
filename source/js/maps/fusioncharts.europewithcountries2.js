@@ -37,7 +37,7 @@ FusionCharts(["private", "modules.renderer.js-europewithcountries2", function ()
         count;
 
     geodefinitions = [{
-        name: "Europewithcountries",
+        name: "Europewithcountries2",
         revision: 17,
         creditLabel: credits,
         standaloneInit: true,
