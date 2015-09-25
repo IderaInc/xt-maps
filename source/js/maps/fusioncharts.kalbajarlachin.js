@@ -5,13 +5,13 @@
  *
  * @author FusionCharts Technologies LLP
  * @meta package_map_pack
- * @id fusionmaps.Kalbajar_Lachin.17.08-20-2015 05:09:21
+ * @id fusionmaps.KalbajarLachin.17.08-20-2015 05:09:21
  */
 
 /*jslint browser: true, windows: false, continue: true, forin: true,
          plusplus: true, regexp: true*/
 /*global location, FusionCharts*/
-FusionCharts(["private", "modules.renderer.js-kalbajar_lachin", function () {
+FusionCharts(["private", "modules.renderer.js-kalbajarlachin", function () {
 
     var global = this, // access global namespace
         lib = global.hcLib, // access html5 charting library
