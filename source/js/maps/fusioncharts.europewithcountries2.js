@@ -5,9 +5,9 @@
  *
  * @author FusionCharts Technologies LLP
  * @meta package_map_pack core
- * @id fusionmaps.Europewithcountries.17.02-16-2015 10:54:37
+ * @id fusionmaps.EuropewithCountries2.17.02-16-2015 10:54:37
  */
-FusionCharts(["private", "modules.renderer.js-europewithcountries", function () {
+FusionCharts(["private", "modules.renderer.js-europewithcountries2", function () {
 
     var global = this, // access global namespace
         lib = global.hcLib, // access html5 charting library
