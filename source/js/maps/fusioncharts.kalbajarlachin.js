@@ -41,7 +41,7 @@ FusionCharts(["private", "modules.renderer.js-kalbajarlachin", function () {
         count;
 
     geodefinitions = [{
-        name: "Kalbajar_Lachin",
+        name: "KalbajarLachin",
         revision: 17,
         creditLabel: credits,
         standaloneInit: true,

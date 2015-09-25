@@ -41,7 +41,7 @@ FusionCharts(["private", "modules.renderer.js-shakizaqatala", function () {
         count;
 
     geodefinitions = [{
-        name: "Shaki_Zaqatala",
+        name: "ShakiZaqatala",
         revision: 17,
         creditLabel: credits,
         standaloneInit: true,

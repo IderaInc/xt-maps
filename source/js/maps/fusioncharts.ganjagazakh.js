@@ -41,7 +41,7 @@ FusionCharts(["private", "modules.renderer.js-ganjagazakh", function () {
         count;
 
     geodefinitions = [{
-        name: "Ganja_Gazakh",
+        name: "GanjaGazakh",
         revision: 17,
         creditLabel: credits,
         standaloneInit: true,
