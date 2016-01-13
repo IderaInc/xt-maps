@@ -5,13 +5,13 @@
  *
  * @author FusionCharts Technologies LLP
  * @meta package_map_pack
- * @id fusionmaps.Orissa.20.10-30-2012 08:25:21
+ * @id fusionmaps.Odisha.20.10-30-2012 08:25:21
  */
 
 /*jslint browser: true, windows: false, continue: true, forin: true,
          plusplus: true, regexp: true*/
 /*global location, FusionCharts*/
-FusionCharts(["private", "modules.renderer.js-orissa", function () {
+FusionCharts(["private", "modules.renderer.js-odisha", function () {
 
     var global = this, // access global namespace
         lib = global.hcLib, // access html5 charting library
@@ -41,7 +41,7 @@ FusionCharts(["private", "modules.renderer.js-orissa", function () {
         count;
 
     geodefinitions = [{
-        name: "Orissa",
+        name: "Odisha",
         revision: 20,
         creditLabel: credits,
         standaloneInit: true,
