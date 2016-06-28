@@ -5,13 +5,13 @@
  *
  * @author FusionCharts Technologies LLP
  * @meta package_map_pack
- * @id fusionmaps.Aqtobe.17.02-23-2016 08:17:46
+ * @id fusionmaps.Aktobe.17.04-26-2016 07:57:02
  */
 
 /*jslint browser: true, windows: false, continue: true, forin: true,
          plusplus: true, regexp: true*/
 /*global location, FusionCharts*/
-FusionCharts(["private", "modules.renderer.js-aqtobe", function () {
+FusionCharts(["private", "modules.renderer.js-aktobe", function () {
 
     var global = this, // access global namespace
         lib = global.hcLib, // access html5 charting library
@@ -41,7 +41,7 @@ FusionCharts(["private", "modules.renderer.js-aqtobe", function () {
         count;
 
     geodefinitions = [{
-        name: "Aqtobe",
+        name: "Aktobe",
         revision: 17,
         creditLabel: credits,
         standaloneInit: true,

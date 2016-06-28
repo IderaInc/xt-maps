@@ -5,13 +5,13 @@
  *
  * @author FusionCharts Technologies LLP
  * @meta package_map_pack
- * @id fusionmaps.South.17.03-07-2016 07:53:20
+ * @id fusionmaps.SouthLebanon.17.03-07-2016 07:53:20
  */
 
 /*jslint browser: true, windows: false, continue: true, forin: true,
          plusplus: true, regexp: true*/
 /*global location, FusionCharts*/
-FusionCharts(["private", "modules.renderer.js-south", function () {
+FusionCharts(["private", "modules.renderer.js-southlebanon", function () {
 
     var global = this, // access global namespace
         lib = global.hcLib, // access html5 charting library
@@ -41,7 +41,7 @@ FusionCharts(["private", "modules.renderer.js-south", function () {
         count;
 
     geodefinitions = [{
-        name: "South",
+        name: "SouthLebanon",
         revision: 17,
         creditLabel: credits,
         standaloneInit: true,
