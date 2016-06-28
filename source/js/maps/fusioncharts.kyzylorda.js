@@ -5,13 +5,13 @@
  *
  * @author FusionCharts Technologies LLP
  * @meta package_map_pack
- * @id fusionmaps.Qyzylorda.17.02-23-2016 08:17:48
+ * @id fusionmaps.Kyzylorda.17.04-26-2016 07:57:04
  */
 
 /*jslint browser: true, windows: false, continue: true, forin: true,
          plusplus: true, regexp: true*/
 /*global location, FusionCharts*/
-FusionCharts(["private", "modules.renderer.js-qyzylorda", function () {
+FusionCharts(["private", "modules.renderer.js-kyzylorda", function () {
 
     var global = this, // access global namespace
         lib = global.hcLib, // access html5 charting library
@@ -41,7 +41,7 @@ FusionCharts(["private", "modules.renderer.js-qyzylorda", function () {
         count;
 
     geodefinitions = [{
-        name: "Qyzylorda",
+        name: "Kyzylorda",
         revision: 17,
         creditLabel: credits,
         standaloneInit: true,
