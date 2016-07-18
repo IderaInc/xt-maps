@@ -28,7 +28,7 @@ FusionCharts(["private", "modules.renderer.js-minasgerais", function () {
         BTM = "bottom",
         MAPS = "maps", // Name of dependent module
 
-        credits = false && !/fusioncharts\.com$/i.test(location.hostname),
+        
         hasGeoBase = !!api.geo,
 
         geodefinitions, // store map drawing information
@@ -39,7 +39,7 @@ FusionCharts(["private", "modules.renderer.js-minasgerais", function () {
     geodefinitions = [{
         name: "MinasGerais",
         revision: 17,
-        creditLabel: credits,
+        
         standaloneInit: true,
 
         baseWidth: 1400,

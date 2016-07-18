@@ -32,7 +32,7 @@ FusionCharts(["private", "modules.renderer.js-sognogfjordane", function () {
         BTM = "bottom",
         MAPS = "maps", // Name of dependent module
 
-        credits = false && !/fusioncharts\.com$/i.test(location.hostname),
+        
         hasGeoBase = !!api.geo,
 
         geodefinitions, // store map drawing information
@@ -43,7 +43,7 @@ FusionCharts(["private", "modules.renderer.js-sognogfjordane", function () {
     geodefinitions = [{
         name: "SognogFjordane",
         revision: 20,
-        creditLabel: credits,
+        
         standaloneInit: true,
 
         baseWidth: 600,

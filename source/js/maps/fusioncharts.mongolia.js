@@ -28,7 +28,7 @@ FusionCharts(["private", "modules.renderer.js-mongolia", function () {
         BTM = "bottom",
         MAPS = "maps", // Name of dependent module
 
-        credits = false && !/fusioncharts\.com$/i.test(location.hostname),
+        
         hasGeoBase = !!api.geo,
 
         geodefinitions, // store map drawing information
@@ -39,7 +39,7 @@ FusionCharts(["private", "modules.renderer.js-mongolia", function () {
     geodefinitions = [{
         name: "Mongolia",
         revision: 20,
-        creditLabel: credits,
+        
         standaloneInit: true,
 
         baseWidth: 820,
