@@ -32,7 +32,7 @@ FusionCharts(["private", "modules.renderer.js-aichi", function () {
         BTM = "bottom",
         MAPS = "maps", // Name of dependent module
 
-        credits = false && !/fusioncharts\.com$/i.test(location.hostname),
+        
         hasGeoBase = !!api.geo,
 
         geodefinitions, // store map drawing information
@@ -43,7 +43,7 @@ FusionCharts(["private", "modules.renderer.js-aichi", function () {
     geodefinitions = [{
         name: "Aichi",
         revision: 17,
-        creditLabel: credits,
+        
         standaloneInit: true,
 
         baseWidth: 575,

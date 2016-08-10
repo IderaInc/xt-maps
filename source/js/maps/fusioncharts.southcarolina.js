@@ -32,7 +32,7 @@ FusionCharts(["private", "modules.renderer.js-southcarolina", function () {
         BTM = "bottom",
         MAPS = "maps", // Name of dependent module
 
-        credits = false && !/fusioncharts\.com$/i.test(location.hostname),
+        
         hasGeoBase = !!api.geo,
 
         geodefinitions, // store map drawing information
@@ -43,7 +43,7 @@ FusionCharts(["private", "modules.renderer.js-southcarolina", function () {
     geodefinitions = [{
         name: "SouthCarolina",
         revision: 20,
-        creditLabel: credits,
+        
         standaloneInit: true,
 
         baseWidth: 751,
