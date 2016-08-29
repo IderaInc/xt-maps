@@ -1,3 +1,11 @@
+
+(function (factory) {
+    if (typeof module === 'object' && typeof module.exports !== 'undefined') {
+        module.exports = factory;
+    } else {
+        factory(FusionCharts);
+    }
+}(function (FusionCharts) {
 /**!
  * @license FusionCharts JavaScript Library
  * Copyright FusionCharts Technologies LLP
@@ -150,3 +158,4 @@ FusionCharts(["private", "modules.renderer.js-bahah", function () {
     }
 
 }]);
+}));
