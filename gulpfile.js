@@ -1,5 +1,6 @@
 var gulp = require('gulp'),
     closureCompiler = require('google-closure-compiler').gulp(),
+    wrap = require("gulp-wrap"),
     del = require('del'),
     fs = require('fs'),
     argArr = process.argv,
@@ -93,6 +94,25 @@ gulp.task('default', function () {
 
     console.log('\n\nEmpty default task!\n\n');
 });
+
+gulp.task('add-wrapper', function () {
+    var src = ARGUMENTS.source || './tmp_source_maps/*.js';
+        dest = ARGUMENTS.destination || './source/js/maps';
+
+    gulp.src(src)
+        .pipe(wrap(
+            `(function (factory) {
+    if (typeof module === 'object' && typeof module.exports !== "undefined") {
+        module.exports = factory;
+    } else {
+        factory(FusionCharts);
+    }
+}(function (FusionCharts) {
+<%= contents %>
+}));
+`))
+        .pipe(gulp.dest(dest));
+    });
 
 // Default build complete package
 // gulp.task('encapsulate', function () {

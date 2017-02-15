@@ -1,90 +1,83 @@
 {
-    "name": "xt-maps",
-    "description": "Map Definitions for FusionCharts XT Suite",
-    "homepage": "http://www.fusioncharts.com/",
-    "version": "1.0.4",
-    "license": "MIT",
-    "author": "FusionCharts Technologies  <mail@labs.fusioncharts.com>",
-
-    "keywords": [
-        "fusioncharts",
-        "fusionmaps",
-        "maps"
-    ],
-
-    "preferGlobal": false,
-
-    "repository": {
-        "type": "git",
-        "url": "https://bitbucket.org/fusioncharts/xt-maps.git"
-    },
-
-    "dependencies": {},
-    "devDependencies": {
-        "del": "2.2.1",
-        "google-closure-compiler": "20160208.4.0",
-        "gulp": "3.9.1",
-        "jshint": "2.4.2",
-        "metascript": "0.18.0"
-    },
-
-    "scripts": {
-        "test": "develop/ci/test/test",
-        "build": "develop/ci/build/build"
-    },
-
-    "jshintConfig": {
-        "bitwise": false,
-        "camelcase": true,
-        "curly": true,
-        "eqeqeq": false,
-        "es3": false,
-        "forin": false,
-        "freeze": true,
-        "immed": true,
-        "indent": 4,
-        "latedef": true,
-        "newcap": true,
-        "noarg": true,
-        "noempty": true,
-        "nonew": false,
-        "plusplus": false,
-        "quotmark": "single",
-        "undef": true,
-        "unused": true,
-        "trailing": true,
-        "asi": false,
-        "boss": true,
-        "debug": false,
-        "eqnull": true,
-        "evil": false,
-        "expr": true,
-        "funcscope": false,
-        "globalstrict": false,
-        "iterator": false,
-        "lastsemic": false,
-        "laxbreak": false,
-        "laxcomma": false,
-        "loopfunc": false,
-        "maxlen": 120,
-        "multistr": false,
-        "notypeof": false,
-        "proto": false,
-        "scripturl": false,
-        "smarttabs": false,
-        "shadow": false,
-        "sub": false,
-        "supernew": false,
-
-        "browser": false,
-        "devel": false,
-        "node": true,
-
-        "onevar": true,
-
-        "globals": {
-            "FusionCharts": true,
-            "window": true
-        }
+  "name": "xt-maps",
+  "description": "Map Definitions for FusionCharts XT Suite",
+  "homepage": "http://www.fusioncharts.com/",
+  "version": "1.0.4",
+  "license": "MIT",
+  "author": "FusionCharts Technologies  <mail@labs.fusioncharts.com>",
+  "keywords": [
+    "fusioncharts",
+    "fusionmaps",
+    "maps"
+  ],
+  "preferGlobal": false,
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/fusioncharts/xt-maps.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "del": "2.2.1",
+    "google-closure-compiler": "20160208.4.0",
+    "gulp": "3.9.1",
+    "gulp-wrap": "^0.13.0",
+    "jshint": "2.4.2",
+    "metascript": "0.18.0"
+  },
+  "scripts": {
+    "test": "develop/ci/test/test",
+    "build": "develop/ci/build/build",
+    "add-wrapper": "gulp add-wrapper"
+  },
+  "jshintConfig": {
+    "bitwise": false,
+    "camelcase": true,
+    "curly": true,
+    "eqeqeq": false,
+    "es3": false,
+    "forin": false,
+    "freeze": true,
+    "immed": true,
+    "indent": 4,
+    "latedef": true,
+    "newcap": true,
+    "noarg": true,
+    "noempty": true,
+    "nonew": false,
+    "plusplus": false,
+    "quotmark": "single",
+    "undef": true,
+    "unused": true,
+    "trailing": true,
+    "asi": false,
+    "boss": true,
+    "debug": false,
+    "eqnull": true,
+    "evil": false,
+    "expr": true,
+    "funcscope": false,
+    "globalstrict": false,
+    "iterator": false,
+    "lastsemic": false,
+    "laxbreak": false,
+    "laxcomma": false,
+    "loopfunc": false,
+    "maxlen": 120,
+    "multistr": false,
+    "notypeof": false,
+    "proto": false,
+    "scripturl": false,
+    "smarttabs": false,
+    "shadow": false,
+    "sub": false,
+    "supernew": false,
+    "browser": false,
+    "devel": false,
+    "node": true,
+    "onevar": true,
+    "globals": {
+      "FusionCharts": true,
+      "window": true
     }
+  }
 }
