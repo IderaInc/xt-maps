@@ -4,12 +4,12 @@ const path = require('path'),
 let IS_DEV = process.env.NODE_ENV === 'development',
   entryObj = {},
   fs = require('fs'),
-  entries = fs.readdirSync('./develop/wrapper/').filter(function (file) {
+  entries = fs.readdirSync('./source/wrappers/').filter(function (file) {
     return file.match(/.*\.js$/);
   });
 
 entries.forEach(function (file) {
-  entryObj[file.replace(/.js/g, '')] = './develop/wrapper/' + file;
+  entryObj[file.replace(/.js/g, '')] = './source/wrappers/' + file;
 });
 
 function getPlugins () {
@@ -40,7 +40,7 @@ module.exports = {
   entry: entryObj,
   output: {
     filename: '[name].js',
-    path: path.resolve(__dirname, 'maps')
+    path: path.resolve(__dirname, 'out')
   },
   externals: {
     FusionCharts: 'FusionCharts'
