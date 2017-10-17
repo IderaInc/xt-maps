@@ -1,0 +1,5 @@
+import FusionCharts from 'FusionCharts';
+import lieria from '../maps/fusioncharts.lieria';
+
+FusionCharts.addDep(lieria);
+FusionCharts.addFile('fusioncharts.lieria.js');

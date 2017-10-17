@@ -1,0 +1,11 @@
+!function(modules){function __webpack_require__(moduleId){if(installedModules[moduleId])return installedModules[moduleId].exports;var module=installedModules[moduleId]={i:moduleId,l:!1,exports:{}};return modules[moduleId].call(module.exports,module,module.exports,__webpack_require__),module.l=!0,module.exports}var installedModules={};__webpack_require__.m=modules,__webpack_require__.c=installedModules,__webpack_require__.d=function(exports,name,getter){__webpack_require__.o(exports,name)||Object.defineProperty(exports,name,{configurable:!1,enumerable:!0,get:getter})},__webpack_require__.n=function(module){var getter=module&&module.__esModule?function(){return module["default"]}:function(){return module};return __webpack_require__.d(getter,"a",getter),getter},__webpack_require__.o=function(object,property){return Object.prototype.hasOwnProperty.call(object,property)},__webpack_require__.p="",__webpack_require__(__webpack_require__.s=515)}({0:function(module,exports){module.exports=FusionCharts},515:function(module,exports,__webpack_require__){"use strict";function _interopRequireDefault(obj){return obj&&obj.__esModule?obj:{"default":obj}}var _FusionCharts=__webpack_require__(0),_FusionCharts2=_interopRequireDefault(_FusionCharts),_fusioncharts=__webpack_require__(516),_fusioncharts2=_interopRequireDefault(_fusioncharts);_FusionCharts2["default"].addDep(_fusioncharts2["default"]),_FusionCharts2["default"].addFile("fusioncharts.ceuta.js")},516:function(module,exports,__webpack_require__){"use strict";exports.__esModule=!0;/**!
+ * @license FusionCharts JavaScript Library
+ * Copyright FusionCharts Technologies LLP
+ * License Information at <http://www.fusioncharts.com/license>
+ *
+ * @author FusionCharts Technologies LLP
+ * @meta package_map_pack
+ * @id fusionmaps.Ceuta.1.04-03-2017 11:58:17
+ */
+var geodefinitions=[{name:"Ceuta",revision:1,standaloneInit:!0,baseWidth:277,baseHeight:400,baseScaleFactor:10,entities:{"ES.CE.CE":{outlines:[["M",45,1911,"Q",-100,4225,2069,3936,2864,3791,2719,2779,2575,2056,2502,1405,2358,682,1201,32,"Q",478,899,45,1911,"Z"]],label:"Ceuta",shortLabel:"CE",labelPosition:[138.8,200],labelAlignment:["center","middle"]}}}];exports["default"]={extension:geodefinitions,name:"ceuta",type:"maps"}}});
+//# sourceMappingURL=fusioncharts.ceuta.js.map
