@@ -1,0 +1,3 @@
+[submodule "vendors/map-tool-es6"]
+	path = vendors/map-tool-es6
+	url = Arnab003@bitbucket.org:fusioncharts/map-tool-es6.git
