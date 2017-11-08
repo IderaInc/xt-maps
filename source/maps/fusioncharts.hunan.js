@@ -158,5 +158,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'hunan',
-  type: 'maps',
+  type: 'maps'
 };

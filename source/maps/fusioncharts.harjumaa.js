@@ -265,5 +265,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'harjumaa',
-  type: 'maps',
+  type: 'maps'
 };

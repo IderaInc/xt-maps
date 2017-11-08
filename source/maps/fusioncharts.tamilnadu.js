@@ -321,5 +321,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'tamilnadu',
-  type: 'maps',
+  type: 'maps'
 };

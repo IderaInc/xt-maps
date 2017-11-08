@@ -121,5 +121,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'maineareacode',
-  type: 'maps',
+  type: 'maps'
 };

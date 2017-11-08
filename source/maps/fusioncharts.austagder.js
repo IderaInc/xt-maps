@@ -171,5 +171,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'austagder',
-  type: 'maps',
+  type: 'maps'
 };

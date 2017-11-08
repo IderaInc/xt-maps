@@ -77,5 +77,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'urozgan',
-  type: 'maps',
+  type: 'maps'
 };

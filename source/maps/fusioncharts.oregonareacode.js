@@ -61,5 +61,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'oregonareacode',
-  type: 'maps',
+  type: 'maps'
 };

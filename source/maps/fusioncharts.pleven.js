@@ -131,5 +131,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'pleven',
-  type: 'maps',
+  type: 'maps'
 };

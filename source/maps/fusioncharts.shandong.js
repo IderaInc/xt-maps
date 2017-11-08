@@ -188,5 +188,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'shandong',
-  type: 'maps',
+  type: 'maps'
 };

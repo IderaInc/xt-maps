@@ -86,5 +86,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'karaman',
-  type: 'maps',
+  type: 'maps'
 };

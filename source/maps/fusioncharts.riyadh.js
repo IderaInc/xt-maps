@@ -214,5 +214,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'riyadh',
-  type: 'maps',
+  type: 'maps'
 };

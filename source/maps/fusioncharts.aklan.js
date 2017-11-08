@@ -188,5 +188,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'aklan',
-  type: 'maps',
+  type: 'maps'
 };

@@ -133,5 +133,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'bukhara',
-  type: 'maps',
+  type: 'maps'
 };

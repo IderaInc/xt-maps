@@ -69,5 +69,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'hail',
-  type: 'maps',
+  type: 'maps'
 };

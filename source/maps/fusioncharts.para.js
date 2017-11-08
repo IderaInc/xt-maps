@@ -1334,5 +1334,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'para',
-  type: 'maps',
+  type: 'maps'
 };

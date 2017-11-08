@@ -63,5 +63,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'arkansasareacode',
-  type: 'maps',
+  type: 'maps'
 };

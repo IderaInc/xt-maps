@@ -77,5 +77,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'camiguin',
-  type: 'maps',
+  type: 'maps'
 };

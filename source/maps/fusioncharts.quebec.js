@@ -204,5 +204,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'quebec',
-  type: 'maps',
+  type: 'maps'
 };

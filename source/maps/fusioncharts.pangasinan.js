@@ -467,5 +467,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'pangasinan',
-  type: 'maps',
+  type: 'maps'
 };

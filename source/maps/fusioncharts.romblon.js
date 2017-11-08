@@ -193,5 +193,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'romblon',
-  type: 'maps',
+  type: 'maps'
 };

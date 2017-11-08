@@ -323,5 +323,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'turksandcaicos',
-  type: 'maps',
+  type: 'maps'
 };

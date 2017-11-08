@@ -45,5 +45,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'saintbarthelemy',
-  type: 'maps',
+  type: 'maps'
 };

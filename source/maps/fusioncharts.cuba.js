@@ -174,5 +174,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'cuba',
-  type: 'maps',
+  type: 'maps'
 };

@@ -176,5 +176,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'potosi',
-  type: 'maps',
+  type: 'maps'
 };

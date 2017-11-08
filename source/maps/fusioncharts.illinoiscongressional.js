@@ -216,5 +216,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'illinoiscongressional',
-  type: 'maps',
+  type: 'maps'
 };

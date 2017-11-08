@@ -112,5 +112,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'biliran',
-  type: 'maps',
+  type: 'maps'
 };

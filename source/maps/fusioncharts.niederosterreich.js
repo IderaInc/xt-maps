@@ -266,5 +266,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'niederosterreich',
-  type: 'maps',
+  type: 'maps'
 };

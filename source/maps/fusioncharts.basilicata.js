@@ -50,5 +50,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'basilicata',
-  type: 'maps',
+  type: 'maps'
 };

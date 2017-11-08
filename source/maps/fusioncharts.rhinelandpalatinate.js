@@ -382,5 +382,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'rhinelandpalatinate',
-  type: 'maps',
+  type: 'maps'
 };

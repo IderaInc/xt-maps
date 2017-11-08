@@ -410,5 +410,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'mazowieckie',
-  type: 'maps',
+  type: 'maps'
 };

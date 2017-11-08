@@ -140,5 +140,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'orebro',
-  type: 'maps',
+  type: 'maps'
 };

@@ -312,5 +312,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'saikung',
-  type: 'maps',
+  type: 'maps'
 };

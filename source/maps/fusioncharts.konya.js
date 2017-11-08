@@ -311,5 +311,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'konya',
-  type: 'maps',
+  type: 'maps'
 };

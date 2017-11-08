@@ -102,5 +102,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'auckland',
-  type: 'maps',
+  type: 'maps'
 };

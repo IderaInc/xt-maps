@@ -256,5 +256,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'northpyongan',
-  type: 'maps',
+  type: 'maps'
 };

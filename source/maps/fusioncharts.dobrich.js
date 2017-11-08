@@ -104,5 +104,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'dobrich',
-  type: 'maps',
+  type: 'maps'
 };

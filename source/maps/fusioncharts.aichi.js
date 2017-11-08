@@ -518,5 +518,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'aichi',
-  type: 'maps',
+  type: 'maps'
 };

@@ -68,5 +68,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'korce',
-  type: 'maps',
+  type: 'maps'
 };

@@ -90,5 +90,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'easteuropeanregion',
-  type: 'maps',
+  type: 'maps'
 };

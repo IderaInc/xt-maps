@@ -50,5 +50,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'orkhon',
-  type: 'maps',
+  type: 'maps'
 };

@@ -59,5 +59,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'fazilka',
-  type: 'maps',
+  type: 'maps'
 };

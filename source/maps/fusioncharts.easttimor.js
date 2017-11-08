@@ -157,5 +157,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'easttimor',
-  type: 'maps',
+  type: 'maps'
 };

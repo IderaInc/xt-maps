@@ -267,5 +267,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'northernireland',
-  type: 'maps',
+  type: 'maps'
 };

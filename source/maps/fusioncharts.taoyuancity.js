@@ -149,5 +149,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'taoyuancity',
-  type: 'maps',
+  type: 'maps'
 };

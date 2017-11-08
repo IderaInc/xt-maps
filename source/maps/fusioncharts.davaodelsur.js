@@ -131,5 +131,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'davaodelsur',
-  type: 'maps',
+  type: 'maps'
 };

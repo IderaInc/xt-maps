@@ -123,5 +123,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'easternasia',
-  type: 'maps',
+  type: 'maps'
 };

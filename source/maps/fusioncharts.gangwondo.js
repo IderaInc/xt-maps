@@ -194,5 +194,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'gangwondo',
-  type: 'maps',
+  type: 'maps'
 };

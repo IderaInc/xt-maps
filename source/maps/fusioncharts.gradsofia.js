@@ -248,5 +248,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'gradsofia',
-  type: 'maps',
+  type: 'maps'
 };

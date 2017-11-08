@@ -277,5 +277,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'yamanashi',
-  type: 'maps',
+  type: 'maps'
 };

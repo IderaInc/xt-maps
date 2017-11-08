@@ -278,5 +278,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'okayama',
-  type: 'maps',
+  type: 'maps'
 };

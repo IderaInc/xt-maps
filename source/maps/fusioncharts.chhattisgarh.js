@@ -276,5 +276,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'chhattisgarh',
-  type: 'maps',
+  type: 'maps'
 };

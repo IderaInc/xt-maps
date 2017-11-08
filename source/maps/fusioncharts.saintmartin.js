@@ -54,5 +54,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'saintmartin',
-  type: 'maps',
+  type: 'maps'
 };

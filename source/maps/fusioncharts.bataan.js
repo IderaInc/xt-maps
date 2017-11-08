@@ -141,5 +141,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'bataan',
-  type: 'maps',
+  type: 'maps'
 };

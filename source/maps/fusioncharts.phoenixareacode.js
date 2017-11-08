@@ -78,5 +78,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'phoenixareacode',
-  type: 'maps',
+  type: 'maps'
 };

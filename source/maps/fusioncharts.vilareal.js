@@ -161,5 +161,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'vilareal',
-  type: 'maps',
+  type: 'maps'
 };

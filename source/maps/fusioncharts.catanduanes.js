@@ -136,5 +136,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'catanduanes',
-  type: 'maps',
+  type: 'maps'
 };

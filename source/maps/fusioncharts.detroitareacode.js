@@ -90,5 +90,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'detroitareacode',
-  type: 'maps',
+  type: 'maps'
 };

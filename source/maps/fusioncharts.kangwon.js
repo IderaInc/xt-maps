@@ -176,5 +176,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'kangwon',
-  type: 'maps',
+  type: 'maps'
 };

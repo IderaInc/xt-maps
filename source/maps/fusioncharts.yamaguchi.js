@@ -246,5 +246,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'yamaguchi',
-  type: 'maps',
+  type: 'maps'
 };

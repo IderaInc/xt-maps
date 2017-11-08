@@ -239,5 +239,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'ilocosnorte',
-  type: 'maps',
+  type: 'maps'
 };

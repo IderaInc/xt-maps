@@ -72,5 +72,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'redsea',
-  type: 'maps',
+  type: 'maps'
 };

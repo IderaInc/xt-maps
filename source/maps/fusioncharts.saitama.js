@@ -599,5 +599,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'saitama',
-  type: 'maps',
+  type: 'maps'
 };

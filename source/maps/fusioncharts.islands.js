@@ -161,5 +161,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'islands',
-  type: 'maps',
+  type: 'maps'
 };

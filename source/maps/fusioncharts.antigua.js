@@ -97,5 +97,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'antigua',
-  type: 'maps',
+  type: 'maps'
 };

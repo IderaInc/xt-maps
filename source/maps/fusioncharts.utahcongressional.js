@@ -61,5 +61,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'utahcongressional',
-  type: 'maps',
+  type: 'maps'
 };

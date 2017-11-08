@@ -41,5 +41,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'navarre',
-  type: 'maps',
+  type: 'maps'
 };

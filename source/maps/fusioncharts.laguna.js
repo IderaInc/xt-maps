@@ -304,5 +304,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'laguna',
-  type: 'maps',
+  type: 'maps'
 };

@@ -149,5 +149,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'burgas',
-  type: 'maps',
+  type: 'maps'
 };

@@ -194,5 +194,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'trabzon',
-  type: 'maps',
+  type: 'maps'
 };

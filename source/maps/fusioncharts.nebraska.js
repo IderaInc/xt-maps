@@ -869,5 +869,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'nebraska',
-  type: 'maps',
+  type: 'maps'
 };

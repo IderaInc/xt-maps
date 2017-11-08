@@ -131,5 +131,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'burdur',
-  type: 'maps',
+  type: 'maps'
 };

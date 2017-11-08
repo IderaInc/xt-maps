@@ -359,5 +359,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'oregon',
-  type: 'maps',
+  type: 'maps'
 };

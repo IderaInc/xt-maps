@@ -237,5 +237,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'madagascarregions',
-  type: 'maps',
+  type: 'maps'
 };

@@ -293,5 +293,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'southpyongan',
-  type: 'maps',
+  type: 'maps'
 };

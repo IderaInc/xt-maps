@@ -281,5 +281,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'stockholm',
-  type: 'maps',
+  type: 'maps'
 };

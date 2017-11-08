@@ -63,5 +63,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'alaskaareacode',
-  type: 'maps',
+  type: 'maps'
 };

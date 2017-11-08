@@ -167,5 +167,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'santacruz',
-  type: 'maps',
+  type: 'maps'
 };

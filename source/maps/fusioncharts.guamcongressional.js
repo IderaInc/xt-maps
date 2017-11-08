@@ -42,5 +42,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'guamcongressional',
-  type: 'maps',
+  type: 'maps'
 };

@@ -302,5 +302,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'balochistan',
-  type: 'maps',
+  type: 'maps'
 };

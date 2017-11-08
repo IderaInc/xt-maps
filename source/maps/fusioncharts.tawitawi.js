@@ -208,5 +208,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'tawitawi',
-  type: 'maps',
+  type: 'maps'
 };

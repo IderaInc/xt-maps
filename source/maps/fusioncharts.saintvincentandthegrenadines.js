@@ -105,5 +105,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'saintvincentandthegrenadines',
-  type: 'maps',
+  type: 'maps'
 };

@@ -145,5 +145,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'qassim',
-  type: 'maps',
+  type: 'maps'
 };

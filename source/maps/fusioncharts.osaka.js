@@ -419,5 +419,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'osaka',
-  type: 'maps',
+  type: 'maps'
 };

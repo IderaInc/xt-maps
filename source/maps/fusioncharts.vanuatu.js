@@ -127,5 +127,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'vanuatu',
-  type: 'maps',
+  type: 'maps'
 };

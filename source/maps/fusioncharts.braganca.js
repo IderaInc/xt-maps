@@ -140,5 +140,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'braganca',
-  type: 'maps',
+  type: 'maps'
 };

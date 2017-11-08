@@ -187,5 +187,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'yautsimmong',
-  type: 'maps',
+  type: 'maps'
 };

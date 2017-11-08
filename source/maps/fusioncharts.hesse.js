@@ -269,5 +269,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'hesse',
-  type: 'maps',
+  type: 'maps'
 };

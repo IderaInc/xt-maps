@@ -554,5 +554,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'nordland',
-  type: 'maps',
+  type: 'maps'
 };

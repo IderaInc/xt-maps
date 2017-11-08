@@ -266,5 +266,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'miyazaki',
-  type: 'maps',
+  type: 'maps'
 };

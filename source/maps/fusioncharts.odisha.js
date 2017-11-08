@@ -335,5 +335,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'odisha',
-  type: 'maps',
+  type: 'maps'
 };

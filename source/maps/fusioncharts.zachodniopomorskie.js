@@ -221,5 +221,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'zachodniopomorskie',
-  type: 'maps',
+  type: 'maps'
 };

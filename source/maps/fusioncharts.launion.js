@@ -212,5 +212,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'launion',
-  type: 'maps',
+  type: 'maps'
 };

@@ -115,5 +115,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'northwestterritories',
-  type: 'maps',
+  type: 'maps'
 };

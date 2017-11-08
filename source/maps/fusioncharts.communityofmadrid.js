@@ -41,5 +41,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'communityofmadrid',
-  type: 'maps',
+  type: 'maps'
 };

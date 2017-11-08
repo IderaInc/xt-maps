@@ -96,5 +96,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'bayofplenty',
-  type: 'maps',
+  type: 'maps'
 };

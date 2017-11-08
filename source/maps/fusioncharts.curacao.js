@@ -43,5 +43,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'curacao',
-  type: 'maps',
+  type: 'maps'
 };

@@ -113,5 +113,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'rifdimashq',
-  type: 'maps',
+  type: 'maps'
 };

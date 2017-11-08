@@ -80,5 +80,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'bajacaliforniasur',
-  type: 'maps',
+  type: 'maps'
 };

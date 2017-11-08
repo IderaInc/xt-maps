@@ -267,5 +267,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'changhuacounty',
-  type: 'maps',
+  type: 'maps'
 };

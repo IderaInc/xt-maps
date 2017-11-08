@@ -297,5 +297,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'hovedstaden',
-  type: 'maps',
+  type: 'maps'
 };

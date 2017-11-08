@@ -68,5 +68,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'gabrovo',
-  type: 'maps',
+  type: 'maps'
 };

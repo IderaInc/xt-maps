@@ -66,5 +66,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'zamboangapeninsula',
-  type: 'maps',
+  type: 'maps'
 };

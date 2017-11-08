@@ -120,5 +120,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'nunavut',
-  type: 'maps',
+  type: 'maps'
 };

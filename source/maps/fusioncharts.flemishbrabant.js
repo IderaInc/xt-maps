@@ -630,5 +630,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'flemishbrabant',
-  type: 'maps',
+  type: 'maps'
 };

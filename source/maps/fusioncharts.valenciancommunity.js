@@ -60,5 +60,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'valenciancommunity',
-  type: 'maps',
+  type: 'maps'
 };

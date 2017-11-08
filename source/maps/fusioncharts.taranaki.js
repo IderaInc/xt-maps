@@ -59,5 +59,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'taranaki',
-  type: 'maps',
+  type: 'maps'
 };

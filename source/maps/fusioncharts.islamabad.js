@@ -78,5 +78,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'islamabad',
-  type: 'maps',
+  type: 'maps'
 };

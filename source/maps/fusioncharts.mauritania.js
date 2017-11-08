@@ -153,5 +153,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'mauritania',
-  type: 'maps',
+  type: 'maps'
 };

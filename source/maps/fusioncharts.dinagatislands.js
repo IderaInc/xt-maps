@@ -117,5 +117,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'dinagatislands',
-  type: 'maps',
+  type: 'maps'
 };

@@ -295,5 +295,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'kwaitsing',
-  type: 'maps',
+  type: 'maps'
 };

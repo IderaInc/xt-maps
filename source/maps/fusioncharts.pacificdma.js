@@ -286,5 +286,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'pacificdma',
-  type: 'maps',
+  type: 'maps'
 };

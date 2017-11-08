@@ -81,5 +81,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'davaoregion',
-  type: 'maps',
+  type: 'maps'
 };

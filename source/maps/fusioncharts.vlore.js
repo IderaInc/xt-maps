@@ -59,5 +59,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'vlore',
-  type: 'maps',
+  type: 'maps'
 };

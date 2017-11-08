@@ -588,5 +588,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'japan',
-  type: 'maps',
+  type: 'maps'
 };

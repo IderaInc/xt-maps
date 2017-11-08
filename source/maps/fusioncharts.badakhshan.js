@@ -149,5 +149,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'badakhshan',
-  type: 'maps',
+  type: 'maps'
 };

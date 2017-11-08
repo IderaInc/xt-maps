@@ -59,5 +59,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'southerngreatplain',
-  type: 'maps',
+  type: 'maps'
 };

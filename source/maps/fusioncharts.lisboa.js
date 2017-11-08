@@ -184,5 +184,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'lisboa',
-  type: 'maps',
+  type: 'maps'
 };

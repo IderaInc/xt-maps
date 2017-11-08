@@ -249,5 +249,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'iceland',
-  type: 'maps',
+  type: 'maps'
 };

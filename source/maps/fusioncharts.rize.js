@@ -140,5 +140,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'rize',
-  type: 'maps',
+  type: 'maps'
 };

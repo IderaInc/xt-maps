@@ -87,5 +87,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'northcarolinaareacode',
-  type: 'maps',
+  type: 'maps'
 };

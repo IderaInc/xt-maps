@@ -418,5 +418,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'gifu',
-  type: 'maps',
+  type: 'maps'
 };

@@ -617,5 +617,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'colorado',
-  type: 'maps',
+  type: 'maps'
 };

@@ -154,5 +154,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'solomonisland',
-  type: 'maps',
+  type: 'maps'
 };

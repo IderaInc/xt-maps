@@ -155,5 +155,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'benin',
-  type: 'maps',
+  type: 'maps'
 };

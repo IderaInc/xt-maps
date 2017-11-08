@@ -413,5 +413,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'romania',
-  type: 'maps',
+  type: 'maps'
 };

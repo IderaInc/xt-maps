@@ -93,5 +93,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'kiribati',
-  type: 'maps',
+  type: 'maps'
 };

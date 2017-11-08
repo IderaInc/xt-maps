@@ -294,5 +294,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'eastsouthcentraldma',
-  type: 'maps',
+  type: 'maps'
 };

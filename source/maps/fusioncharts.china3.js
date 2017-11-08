@@ -343,5 +343,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'china3',
-  type: 'maps',
+  type: 'maps'
 };

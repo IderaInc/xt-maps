@@ -68,5 +68,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'dagligshirvan',
-  type: 'maps',
+  type: 'maps'
 };

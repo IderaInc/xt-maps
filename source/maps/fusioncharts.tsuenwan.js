@@ -202,5 +202,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'tsuenwan',
-  type: 'maps',
+  type: 'maps'
 };

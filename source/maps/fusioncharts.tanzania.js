@@ -287,5 +287,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'tanzania',
-  type: 'maps',
+  type: 'maps'
 };

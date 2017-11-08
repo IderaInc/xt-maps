@@ -521,5 +521,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'chiba',
-  type: 'maps',
+  type: 'maps'
 };

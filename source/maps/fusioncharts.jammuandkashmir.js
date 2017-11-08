@@ -463,5 +463,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'jammuandkashmir',
-  type: 'maps',
+  type: 'maps'
 };

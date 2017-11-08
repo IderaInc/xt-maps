@@ -120,5 +120,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'centralafrica',
-  type: 'maps',
+  type: 'maps'
 };

@@ -97,5 +97,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'esfahan',
-  type: 'maps',
+  type: 'maps'
 };

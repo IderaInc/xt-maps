@@ -191,5 +191,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'westernasia',
-  type: 'maps',
+  type: 'maps'
 };

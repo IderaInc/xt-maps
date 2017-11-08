@@ -194,5 +194,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'govialtai',
-  type: 'maps',
+  type: 'maps'
 };

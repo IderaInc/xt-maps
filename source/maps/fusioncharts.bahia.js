@@ -3840,5 +3840,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'bahia',
-  type: 'maps',
+  type: 'maps'
 };

@@ -97,5 +97,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'novascotia',
-  type: 'maps',
+  type: 'maps'
 };

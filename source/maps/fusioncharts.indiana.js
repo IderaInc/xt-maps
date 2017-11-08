@@ -866,5 +866,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'indiana',
-  type: 'maps',
+  type: 'maps'
 };

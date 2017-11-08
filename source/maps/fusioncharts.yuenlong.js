@@ -332,5 +332,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'yuenlong',
-  type: 'maps',
+  type: 'maps'
 };

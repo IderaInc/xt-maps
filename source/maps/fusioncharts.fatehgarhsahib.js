@@ -68,5 +68,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'fatehgarhsahib',
-  type: 'maps',
+  type: 'maps'
 };

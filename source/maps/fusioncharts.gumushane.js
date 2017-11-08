@@ -86,5 +86,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'gumushane',
-  type: 'maps',
+  type: 'maps'
 };

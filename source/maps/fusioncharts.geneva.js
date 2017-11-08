@@ -445,5 +445,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'geneva',
-  type: 'maps',
+  type: 'maps'
 };

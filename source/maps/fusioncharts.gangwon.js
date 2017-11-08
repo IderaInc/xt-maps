@@ -194,5 +194,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'gangwon',
-  type: 'maps',
+  type: 'maps'
 };

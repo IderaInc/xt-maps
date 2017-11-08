@@ -252,5 +252,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'palau',
-  type: 'maps',
+  type: 'maps'
 };

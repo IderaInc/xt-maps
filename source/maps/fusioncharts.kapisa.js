@@ -86,5 +86,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'kapisa',
-  type: 'maps',
+  type: 'maps'
 };

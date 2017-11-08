@@ -185,5 +185,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'diyarbakir',
-  type: 'maps',
+  type: 'maps'
 };

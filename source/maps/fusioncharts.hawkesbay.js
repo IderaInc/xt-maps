@@ -87,5 +87,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'hawkesbay',
-  type: 'maps',
+  type: 'maps'
 };

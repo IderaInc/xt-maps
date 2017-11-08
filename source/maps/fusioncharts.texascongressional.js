@@ -343,5 +343,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'texascongressional',
-  type: 'maps',
+  type: 'maps'
 };

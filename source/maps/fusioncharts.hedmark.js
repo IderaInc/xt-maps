@@ -230,5 +230,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'hedmark',
-  type: 'maps',
+  type: 'maps'
 };

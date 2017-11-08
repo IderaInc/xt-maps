@@ -185,5 +185,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'newzealand',
-  type: 'maps',
+  type: 'maps'
 };

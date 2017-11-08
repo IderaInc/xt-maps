@@ -233,5 +233,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'kowlooncity',
-  type: 'maps',
+  type: 'maps'
 };

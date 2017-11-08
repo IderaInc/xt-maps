@@ -500,5 +500,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'rondonia',
-  type: 'maps',
+  type: 'maps'
 };

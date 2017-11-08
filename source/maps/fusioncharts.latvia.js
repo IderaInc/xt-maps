@@ -350,5 +350,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'latvia',
-  type: 'maps',
+  type: 'maps'
 };

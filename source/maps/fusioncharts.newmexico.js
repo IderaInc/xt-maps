@@ -332,5 +332,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'newmexico',
-  type: 'maps',
+  type: 'maps'
 };

@@ -282,5 +282,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'malawi',
-  type: 'maps',
+  type: 'maps'
 };

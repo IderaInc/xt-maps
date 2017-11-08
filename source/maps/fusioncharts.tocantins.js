@@ -1307,5 +1307,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'tocantins',
-  type: 'maps',
+  type: 'maps'
 };

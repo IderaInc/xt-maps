@@ -344,5 +344,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'kochi',
-  type: 'maps',
+  type: 'maps'
 };

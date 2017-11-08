@@ -202,5 +202,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'texasareacode',
-  type: 'maps',
+  type: 'maps'
 };

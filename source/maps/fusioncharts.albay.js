@@ -224,5 +224,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'albay',
-  type: 'maps',
+  type: 'maps'
 };

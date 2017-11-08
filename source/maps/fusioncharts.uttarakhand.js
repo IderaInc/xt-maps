@@ -152,5 +152,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'uttarakhand',
-  type: 'maps',
+  type: 'maps'
 };

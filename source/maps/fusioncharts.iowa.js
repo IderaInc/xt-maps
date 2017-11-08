@@ -923,5 +923,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'iowa',
-  type: 'maps',
+  type: 'maps'
 };

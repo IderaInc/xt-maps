@@ -204,5 +204,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'oita',
-  type: 'maps',
+  type: 'maps'
 };

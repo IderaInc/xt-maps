@@ -320,5 +320,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'nuevaecija',
-  type: 'maps',
+  type: 'maps'
 };

@@ -80,5 +80,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'campania',
-  type: 'maps',
+  type: 'maps'
 };

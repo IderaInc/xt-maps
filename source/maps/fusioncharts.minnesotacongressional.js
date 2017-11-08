@@ -111,5 +111,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'minnesotacongressional',
-  type: 'maps',
+  type: 'maps'
 };

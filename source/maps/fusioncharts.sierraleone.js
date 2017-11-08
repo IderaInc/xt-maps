@@ -162,5 +162,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'sierraleone',
-  type: 'maps',
+  type: 'maps'
 };

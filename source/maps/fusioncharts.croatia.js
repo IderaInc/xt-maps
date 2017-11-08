@@ -250,5 +250,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'croatia',
-  type: 'maps',
+  type: 'maps'
 };

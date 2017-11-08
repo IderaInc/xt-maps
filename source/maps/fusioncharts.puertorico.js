@@ -749,5 +749,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'puertorico',
-  type: 'maps',
+  type: 'maps'
 };

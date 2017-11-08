@@ -700,5 +700,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'wisconsin',
-  type: 'maps',
+  type: 'maps'
 };

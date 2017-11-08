@@ -1370,5 +1370,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'virginia',
-  type: 'maps',
+  type: 'maps'
 };

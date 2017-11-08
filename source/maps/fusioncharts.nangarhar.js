@@ -212,5 +212,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'nangarhar',
-  type: 'maps',
+  type: 'maps'
 };

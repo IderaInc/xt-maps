@@ -167,5 +167,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'evora',
-  type: 'maps',
+  type: 'maps'
 };

@@ -908,5 +908,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'tennessee',
-  type: 'maps',
+  type: 'maps'
 };

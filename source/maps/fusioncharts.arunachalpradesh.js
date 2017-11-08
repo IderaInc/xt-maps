@@ -194,5 +194,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'arunachalpradesh',
-  type: 'maps',
+  type: 'maps'
 };

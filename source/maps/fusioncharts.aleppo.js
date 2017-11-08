@@ -122,5 +122,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'aleppo',
-  type: 'maps',
+  type: 'maps'
 };

@@ -71,5 +71,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'absheron',
-  type: 'maps',
+  type: 'maps'
 };

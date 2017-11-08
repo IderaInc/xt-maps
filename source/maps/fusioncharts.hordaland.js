@@ -388,5 +388,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'hordaland',
-  type: 'maps',
+  type: 'maps'
 };

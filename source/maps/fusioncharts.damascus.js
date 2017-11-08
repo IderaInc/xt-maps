@@ -176,5 +176,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'damascus',
-  type: 'maps',
+  type: 'maps'
 };

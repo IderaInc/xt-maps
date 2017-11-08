@@ -276,5 +276,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'sulu',
-  type: 'maps',
+  type: 'maps'
 };

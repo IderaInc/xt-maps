@@ -49,5 +49,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'rhodeislandareacode',
-  type: 'maps',
+  type: 'maps'
 };

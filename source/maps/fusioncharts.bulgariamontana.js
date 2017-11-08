@@ -131,5 +131,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'bulgariamontana',
-  type: 'maps',
+  type: 'maps'
 };

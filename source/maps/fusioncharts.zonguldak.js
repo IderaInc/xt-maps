@@ -86,5 +86,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'zonguldak',
-  type: 'maps',
+  type: 'maps'
 };

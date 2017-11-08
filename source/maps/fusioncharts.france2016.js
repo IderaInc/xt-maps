@@ -207,5 +207,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'france2016',
-  type: 'maps',
+  type: 'maps'
 };

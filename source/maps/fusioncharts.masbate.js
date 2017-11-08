@@ -238,5 +238,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'masbate',
-  type: 'maps',
+  type: 'maps'
 };

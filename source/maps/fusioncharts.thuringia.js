@@ -239,5 +239,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'thuringia',
-  type: 'maps',
+  type: 'maps'
 };

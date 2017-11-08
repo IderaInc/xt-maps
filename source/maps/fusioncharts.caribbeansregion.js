@@ -414,5 +414,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'caribbeansregion',
-  type: 'maps',
+  type: 'maps'
 };

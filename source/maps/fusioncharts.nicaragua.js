@@ -195,5 +195,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'nicaragua',
-  type: 'maps',
+  type: 'maps'
 };

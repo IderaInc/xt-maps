@@ -302,5 +302,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'saxony',
-  type: 'maps',
+  type: 'maps'
 };

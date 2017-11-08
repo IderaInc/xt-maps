@@ -291,5 +291,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'sognogfjordane',
-  type: 'maps',
+  type: 'maps'
 };

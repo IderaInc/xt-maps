@@ -453,5 +453,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'southatlanticdma',
-  type: 'maps',
+  type: 'maps'
 };

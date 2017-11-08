@@ -158,5 +158,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'lubuskie',
-  type: 'maps',
+  type: 'maps'
 };

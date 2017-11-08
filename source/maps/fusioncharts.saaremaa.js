@@ -189,5 +189,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'saaremaa',
-  type: 'maps',
+  type: 'maps'
 };

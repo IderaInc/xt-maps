@@ -109,5 +109,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'anguilla',
-  type: 'maps',
+  type: 'maps'
 };

@@ -96,5 +96,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'costarica',
-  type: 'maps',
+  type: 'maps'
 };

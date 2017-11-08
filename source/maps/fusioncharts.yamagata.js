@@ -347,5 +347,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'yamagata',
-  type: 'maps',
+  type: 'maps'
 };

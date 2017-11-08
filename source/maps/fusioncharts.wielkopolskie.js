@@ -347,5 +347,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'wielkopolskie',
-  type: 'maps',
+  type: 'maps'
 };

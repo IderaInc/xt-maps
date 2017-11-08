@@ -395,5 +395,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'aomori',
-  type: 'maps',
+  type: 'maps'
 };

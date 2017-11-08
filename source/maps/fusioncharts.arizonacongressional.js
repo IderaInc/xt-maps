@@ -107,5 +107,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'arizonacongressional',
-  type: 'maps',
+  type: 'maps'
 };

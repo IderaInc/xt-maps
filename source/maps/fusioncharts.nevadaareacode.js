@@ -50,5 +50,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'nevadaareacode',
-  type: 'maps',
+  type: 'maps'
 };

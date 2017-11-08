@@ -140,5 +140,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'westkazakhstan',
-  type: 'maps',
+  type: 'maps'
 };

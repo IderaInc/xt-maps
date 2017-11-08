@@ -140,5 +140,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'yilancounty',
-  type: 'maps',
+  type: 'maps'
 };

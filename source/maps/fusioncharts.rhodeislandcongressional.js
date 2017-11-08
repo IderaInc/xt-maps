@@ -56,5 +56,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'rhodeislandcongressional',
-  type: 'maps',
+  type: 'maps'
 };

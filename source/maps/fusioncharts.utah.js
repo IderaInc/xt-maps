@@ -293,5 +293,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'utah',
-  type: 'maps',
+  type: 'maps'
 };

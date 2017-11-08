@@ -728,5 +728,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'nagano',
-  type: 'maps',
+  type: 'maps'
 };

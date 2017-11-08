@@ -192,5 +192,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'maine',
-  type: 'maps',
+  type: 'maps'
 };

@@ -186,5 +186,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'floridaareacode',
-  type: 'maps',
+  type: 'maps'
 };

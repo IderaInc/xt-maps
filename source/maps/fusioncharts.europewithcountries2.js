@@ -525,5 +525,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'europewithcountries2',
-  type: 'maps',
+  type: 'maps'
 };

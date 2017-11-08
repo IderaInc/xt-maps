@@ -196,5 +196,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'capeverde',
-  type: 'maps',
+  type: 'maps'
 };

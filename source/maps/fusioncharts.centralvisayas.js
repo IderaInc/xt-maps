@@ -82,5 +82,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'centralvisayas',
-  type: 'maps',
+  type: 'maps'
 };

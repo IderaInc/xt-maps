@@ -114,5 +114,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'northerncaliforniabayareacode',
-  type: 'maps',
+  type: 'maps'
 };

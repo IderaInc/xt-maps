@@ -113,5 +113,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'sodermanland',
-  type: 'maps',
+  type: 'maps'
 };

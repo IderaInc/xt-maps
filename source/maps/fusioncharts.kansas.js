@@ -977,5 +977,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'kansas',
-  type: 'maps',
+  type: 'maps'
 };

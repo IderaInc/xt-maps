@@ -67,5 +67,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'mississippiareacode',
-  type: 'maps',
+  type: 'maps'
 };

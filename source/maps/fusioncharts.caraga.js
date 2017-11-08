@@ -92,5 +92,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'caraga',
-  type: 'maps',
+  type: 'maps'
 };

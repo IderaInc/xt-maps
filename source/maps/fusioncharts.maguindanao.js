@@ -367,5 +367,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'maguindanao',
-  type: 'maps',
+  type: 'maps'
 };

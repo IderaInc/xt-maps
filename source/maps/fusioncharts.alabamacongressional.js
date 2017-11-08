@@ -95,5 +95,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'alabamacongressional',
-  type: 'maps',
+  type: 'maps'
 };

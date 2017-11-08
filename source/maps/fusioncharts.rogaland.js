@@ -306,5 +306,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'rogaland',
-  type: 'maps',
+  type: 'maps'
 };

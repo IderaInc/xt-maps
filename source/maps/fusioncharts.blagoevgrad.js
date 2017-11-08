@@ -158,5 +158,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'blagoevgrad',
-  type: 'maps',
+  type: 'maps'
 };

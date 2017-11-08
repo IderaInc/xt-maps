@@ -617,5 +617,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'eastflanders',
-  type: 'maps',
+  type: 'maps'
 };

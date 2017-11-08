@@ -350,5 +350,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'slaskie',
-  type: 'maps',
+  type: 'maps'
 };

@@ -158,5 +158,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'kerala',
-  type: 'maps',
+  type: 'maps'
 };

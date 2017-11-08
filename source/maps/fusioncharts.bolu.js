@@ -113,5 +113,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'bolu',
-  type: 'maps',
+  type: 'maps'
 };

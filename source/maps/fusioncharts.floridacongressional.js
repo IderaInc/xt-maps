@@ -330,5 +330,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'floridacongressional',
-  type: 'maps',
+  type: 'maps'
 };

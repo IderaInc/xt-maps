@@ -325,5 +325,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'dominicanrepublic',
-  type: 'maps',
+  type: 'maps'
 };

@@ -100,5 +100,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'usatimezone',
-  type: 'maps',
+  type: 'maps'
 };

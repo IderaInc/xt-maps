@@ -97,5 +97,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'kuwait',
-  type: 'maps',
+  type: 'maps'
 };

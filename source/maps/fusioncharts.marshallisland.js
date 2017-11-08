@@ -374,5 +374,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'marshallisland',
-  type: 'maps',
+  type: 'maps'
 };

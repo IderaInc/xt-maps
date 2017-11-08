@@ -199,5 +199,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'ohiocongressional',
-  type: 'maps',
+  type: 'maps'
 };

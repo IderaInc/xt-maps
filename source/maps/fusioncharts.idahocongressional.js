@@ -50,5 +50,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'idahocongressional',
-  type: 'maps',
+  type: 'maps'
 };

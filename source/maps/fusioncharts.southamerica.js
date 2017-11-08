@@ -221,5 +221,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'southamerica',
-  type: 'maps',
+  type: 'maps'
 };

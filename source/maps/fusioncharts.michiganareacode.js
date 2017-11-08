@@ -144,5 +144,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'michiganareacode',
-  type: 'maps',
+  type: 'maps'
 };

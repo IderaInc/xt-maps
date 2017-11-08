@@ -492,5 +492,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'madhyapradesh',
-  type: 'maps',
+  type: 'maps'
 };

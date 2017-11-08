@@ -105,5 +105,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'romaniaregion',
-  type: 'maps',
+  type: 'maps'
 };

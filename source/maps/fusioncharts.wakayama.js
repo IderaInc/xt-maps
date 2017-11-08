@@ -313,5 +313,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'wakayama',
-  type: 'maps',
+  type: 'maps'
 };

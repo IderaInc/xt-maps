@@ -138,5 +138,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'washingtoncongressional',
-  type: 'maps',
+  type: 'maps'
 };

@@ -415,5 +415,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'hyogo',
-  type: 'maps',
+  type: 'maps'
 };

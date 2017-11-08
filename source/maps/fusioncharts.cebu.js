@@ -537,5 +537,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'cebu',
-  type: 'maps',
+  type: 'maps'
 };

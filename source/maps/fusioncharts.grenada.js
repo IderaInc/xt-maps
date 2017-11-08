@@ -92,5 +92,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'grenada',
-  type: 'maps',
+  type: 'maps'
 };

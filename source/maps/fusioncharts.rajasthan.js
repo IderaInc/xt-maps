@@ -334,5 +334,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'rajasthan',
-  type: 'maps',
+  type: 'maps'
 };

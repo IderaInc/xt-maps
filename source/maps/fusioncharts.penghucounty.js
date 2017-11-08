@@ -188,5 +188,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'penghucounty',
-  type: 'maps',
+  type: 'maps'
 };

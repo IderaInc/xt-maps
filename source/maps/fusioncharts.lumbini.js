@@ -86,5 +86,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'lumbini',
-  type: 'maps',
+  type: 'maps'
 };

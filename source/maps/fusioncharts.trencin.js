@@ -113,5 +113,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'trencin',
-  type: 'maps',
+  type: 'maps'
 };

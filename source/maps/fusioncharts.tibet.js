@@ -95,5 +95,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'tibet',
-  type: 'maps',
+  type: 'maps'
 };

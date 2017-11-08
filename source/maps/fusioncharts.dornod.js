@@ -159,5 +159,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'dornod',
-  type: 'maps',
+  type: 'maps'
 };

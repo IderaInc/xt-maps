@@ -177,5 +177,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'poland',
-  type: 'maps',
+  type: 'maps'
 };

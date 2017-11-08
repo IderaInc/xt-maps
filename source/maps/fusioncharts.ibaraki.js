@@ -430,5 +430,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'ibaraki',
-  type: 'maps',
+  type: 'maps'
 };

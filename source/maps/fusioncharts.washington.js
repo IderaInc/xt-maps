@@ -395,5 +395,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'washington',
-  type: 'maps',
+  type: 'maps'
 };

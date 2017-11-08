@@ -230,5 +230,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'tartumaa',
-  type: 'maps',
+  type: 'maps'
 };

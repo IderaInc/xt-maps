@@ -203,5 +203,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'aveiro',
-  type: 'maps',
+  type: 'maps'
 };

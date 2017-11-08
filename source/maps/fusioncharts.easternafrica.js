@@ -218,5 +218,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'easternafrica',
-  type: 'maps',
+  type: 'maps'
 };

@@ -135,5 +135,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'marylandcongressional',
-  type: 'maps',
+  type: 'maps'
 };

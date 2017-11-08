@@ -169,5 +169,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'fergana',
-  type: 'maps',
+  type: 'maps'
 };

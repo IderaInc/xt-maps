@@ -96,5 +96,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'westernvisayas',
-  type: 'maps',
+  type: 'maps'
 };

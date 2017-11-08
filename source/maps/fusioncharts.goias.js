@@ -2257,5 +2257,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'goias',
-  type: 'maps',
+  type: 'maps'
 };

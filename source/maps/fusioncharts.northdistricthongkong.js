@@ -222,5 +222,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'northdistricthongkong',
-  type: 'maps',
+  type: 'maps'
 };

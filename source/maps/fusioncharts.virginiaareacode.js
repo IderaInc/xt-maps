@@ -88,5 +88,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'virginiaareacode',
-  type: 'maps',
+  type: 'maps'
 };

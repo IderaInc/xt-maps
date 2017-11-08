@@ -213,5 +213,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'aran',
-  type: 'maps',
+  type: 'maps'
 };

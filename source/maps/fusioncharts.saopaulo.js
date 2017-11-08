@@ -5887,5 +5887,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'saopaulo',
-  type: 'maps',
+  type: 'maps'
 };

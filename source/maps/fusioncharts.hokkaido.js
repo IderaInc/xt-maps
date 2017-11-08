@@ -166,5 +166,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'hokkaido',
-  type: 'maps',
+  type: 'maps'
 };

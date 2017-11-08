@@ -350,5 +350,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'libya',
-  type: 'maps',
+  type: 'maps'
 };

@@ -392,5 +392,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'lanaodelsur',
-  type: 'maps',
+  type: 'maps'
 };

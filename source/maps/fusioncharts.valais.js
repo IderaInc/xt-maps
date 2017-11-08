@@ -160,5 +160,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'valais',
-  type: 'maps',
+  type: 'maps'
 };

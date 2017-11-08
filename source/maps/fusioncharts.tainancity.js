@@ -365,5 +365,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'tainancity',
-  type: 'maps',
+  type: 'maps'
 };

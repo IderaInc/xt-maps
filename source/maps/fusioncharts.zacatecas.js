@@ -578,5 +578,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'zacatecas',
-  type: 'maps',
+  type: 'maps'
 };

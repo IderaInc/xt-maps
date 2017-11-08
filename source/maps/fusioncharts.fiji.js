@@ -261,5 +261,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'fiji',
-  type: 'maps',
+  type: 'maps'
 };

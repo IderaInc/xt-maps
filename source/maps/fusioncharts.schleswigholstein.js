@@ -179,5 +179,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'schleswigholstein',
-  type: 'maps',
+  type: 'maps'
 };

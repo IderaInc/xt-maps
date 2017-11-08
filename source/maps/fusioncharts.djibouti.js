@@ -86,5 +86,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'djibouti',
-  type: 'maps',
+  type: 'maps'
 };

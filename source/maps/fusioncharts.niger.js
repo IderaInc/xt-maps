@@ -107,5 +107,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'niger',
-  type: 'maps',
+  type: 'maps'
 };

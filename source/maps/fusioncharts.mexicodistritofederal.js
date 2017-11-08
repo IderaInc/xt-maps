@@ -41,5 +41,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'mexicodistritofederal',
-  type: 'maps',
+  type: 'maps'
 };

@@ -327,5 +327,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'tuenmun',
-  type: 'maps',
+  type: 'maps'
 };

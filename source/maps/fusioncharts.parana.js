@@ -3635,5 +3635,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'parana',
-  type: 'maps',
+  type: 'maps'
 };

@@ -92,5 +92,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'barisal',
-  type: 'maps',
+  type: 'maps'
 };

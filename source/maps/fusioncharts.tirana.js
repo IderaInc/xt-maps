@@ -50,5 +50,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'tirana',
-  type: 'maps',
+  type: 'maps'
 };

@@ -70,5 +70,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'comoros',
-  type: 'maps',
+  type: 'maps'
 };

@@ -2705,5 +2705,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'santacatarina',
-  type: 'maps',
+  type: 'maps'
 };

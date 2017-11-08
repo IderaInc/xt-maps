@@ -104,5 +104,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'azadkashmir',
-  type: 'maps',
+  type: 'maps'
 };

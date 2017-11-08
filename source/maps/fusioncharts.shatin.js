@@ -357,5 +357,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'shatin',
-  type: 'maps',
+  type: 'maps'
 };

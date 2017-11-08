@@ -258,5 +258,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'negrosoriental',
-  type: 'maps',
+  type: 'maps'
 };

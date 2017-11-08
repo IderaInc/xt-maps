@@ -126,5 +126,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'northamericawocentral',
-  type: 'maps',
+  type: 'maps'
 };

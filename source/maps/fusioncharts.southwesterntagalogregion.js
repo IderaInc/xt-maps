@@ -182,5 +182,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'southwesterntagalogregion',
-  type: 'maps',
+  type: 'maps'
 };

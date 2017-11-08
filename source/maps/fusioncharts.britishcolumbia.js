@@ -296,5 +296,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'britishcolumbia',
-  type: 'maps',
+  type: 'maps'
 };

@@ -665,5 +665,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'hainaut',
-  type: 'maps',
+  type: 'maps'
 };

@@ -277,5 +277,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'zamboangadelsur',
-  type: 'maps',
+  type: 'maps'
 };

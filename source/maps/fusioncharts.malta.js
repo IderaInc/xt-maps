@@ -63,5 +63,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'malta',
-  type: 'maps',
+  type: 'maps'
 };

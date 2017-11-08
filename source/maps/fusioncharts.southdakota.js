@@ -626,5 +626,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'southdakota',
-  type: 'maps',
+  type: 'maps'
 };

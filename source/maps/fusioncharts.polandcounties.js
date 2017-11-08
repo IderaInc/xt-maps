@@ -3423,5 +3423,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'polandcounties',
-  type: 'maps',
+  type: 'maps'
 };

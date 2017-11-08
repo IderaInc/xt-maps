@@ -421,5 +421,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'leyte',
-  type: 'maps',
+  type: 'maps'
 };

@@ -374,5 +374,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'namur',
-  type: 'maps',
+  type: 'maps'
 };

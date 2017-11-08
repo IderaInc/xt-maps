@@ -41,5 +41,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'asturias',
-  type: 'maps',
+  type: 'maps'
 };

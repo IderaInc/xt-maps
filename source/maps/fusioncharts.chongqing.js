@@ -392,5 +392,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'chongqing',
-  type: 'maps',
+  type: 'maps'
 };

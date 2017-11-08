@@ -231,5 +231,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'pampanga',
-  type: 'maps',
+  type: 'maps'
 };

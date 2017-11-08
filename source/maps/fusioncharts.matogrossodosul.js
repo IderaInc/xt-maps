@@ -743,5 +743,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'matogrossodosul',
-  type: 'maps',
+  type: 'maps'
 };

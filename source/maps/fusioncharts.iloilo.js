@@ -441,5 +441,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'iloilo',
-  type: 'maps',
+  type: 'maps'
 };

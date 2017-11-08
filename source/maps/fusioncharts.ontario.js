@@ -552,5 +552,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'ontario',
-  type: 'maps',
+  type: 'maps'
 };

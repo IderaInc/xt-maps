@@ -316,5 +316,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'gyeonggi',
-  type: 'maps',
+  type: 'maps'
 };

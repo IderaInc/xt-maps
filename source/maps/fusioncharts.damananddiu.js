@@ -51,5 +51,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'damananddiu',
-  type: 'maps',
+  type: 'maps'
 };

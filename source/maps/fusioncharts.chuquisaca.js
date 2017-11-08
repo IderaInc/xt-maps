@@ -122,5 +122,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'chuquisaca',
-  type: 'maps',
+  type: 'maps'
 };

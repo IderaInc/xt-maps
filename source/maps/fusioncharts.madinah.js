@@ -108,5 +108,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'madinah',
-  type: 'maps',
+  type: 'maps'
 };

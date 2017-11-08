@@ -68,5 +68,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'amritsar',
-  type: 'maps',
+  type: 'maps'
 };

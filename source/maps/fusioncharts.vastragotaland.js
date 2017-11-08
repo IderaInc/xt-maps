@@ -478,5 +478,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'vastragotaland',
-  type: 'maps',
+  type: 'maps'
 };

@@ -105,5 +105,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'ohioareacode',
-  type: 'maps',
+  type: 'maps'
 };

@@ -715,5 +715,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'sergipe',
-  type: 'maps',
+  type: 'maps'
 };

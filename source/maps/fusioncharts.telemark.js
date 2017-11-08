@@ -200,5 +200,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'telemark',
-  type: 'maps',
+  type: 'maps'
 };

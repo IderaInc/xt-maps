@@ -534,5 +534,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'northrhinewestphalia',
-  type: 'maps',
+  type: 'maps'
 };

@@ -48,5 +48,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'hawaiiareacode',
-  type: 'maps',
+  type: 'maps'
 };

@@ -420,5 +420,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'moreogromsdal',
-  type: 'maps',
+  type: 'maps'
 };

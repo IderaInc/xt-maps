@@ -143,5 +143,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'asiageorgia',
-  type: 'maps',
+  type: 'maps'
 };

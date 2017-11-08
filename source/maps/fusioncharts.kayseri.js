@@ -176,5 +176,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'kayseri',
-  type: 'maps',
+  type: 'maps'
 };

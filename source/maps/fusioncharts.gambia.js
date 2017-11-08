@@ -89,5 +89,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'gambia',
-  type: 'maps',
+  type: 'maps'
 };

@@ -4554,5 +4554,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'riograndedosul',
-  type: 'maps',
+  type: 'maps'
 };

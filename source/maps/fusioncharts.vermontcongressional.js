@@ -41,5 +41,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'vermontcongressional',
-  type: 'maps',
+  type: 'maps'
 };

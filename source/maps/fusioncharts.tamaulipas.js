@@ -441,5 +441,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'tamaulipas',
-  type: 'maps',
+  type: 'maps'
 };

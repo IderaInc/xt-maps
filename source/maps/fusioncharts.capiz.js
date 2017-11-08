@@ -193,5 +193,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'capiz',
-  type: 'maps',
+  type: 'maps'
 };

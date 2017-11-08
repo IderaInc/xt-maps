@@ -51,5 +51,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'cyprus2',
-  type: 'maps',
+  type: 'maps'
 };

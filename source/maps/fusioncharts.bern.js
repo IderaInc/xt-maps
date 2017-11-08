@@ -269,5 +269,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'bern',
-  type: 'maps',
+  type: 'maps'
 };

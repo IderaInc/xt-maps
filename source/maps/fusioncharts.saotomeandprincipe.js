@@ -98,5 +98,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'saotomeandprincipe',
-  type: 'maps',
+  type: 'maps'
 };

@@ -140,5 +140,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'luxembourg',
-  type: 'maps',
+  type: 'maps'
 };

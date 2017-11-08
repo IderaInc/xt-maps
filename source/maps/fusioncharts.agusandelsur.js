@@ -158,5 +158,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'agusandelsur',
-  type: 'maps',
+  type: 'maps'
 };

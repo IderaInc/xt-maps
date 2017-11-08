@@ -167,5 +167,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'dalarna',
-  type: 'maps',
+  type: 'maps'
 };

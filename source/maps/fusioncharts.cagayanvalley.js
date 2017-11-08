@@ -94,5 +94,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'cagayanvalley',
-  type: 'maps',
+  type: 'maps'
 };

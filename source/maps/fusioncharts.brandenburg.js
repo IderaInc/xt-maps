@@ -206,5 +206,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'brandenburg',
-  type: 'maps',
+  type: 'maps'
 };

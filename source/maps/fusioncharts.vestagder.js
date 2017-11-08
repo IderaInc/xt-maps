@@ -175,5 +175,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'vestagder',
-  type: 'maps',
+  type: 'maps'
 };

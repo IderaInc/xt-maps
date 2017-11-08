@@ -104,5 +104,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'nevsehir',
-  type: 'maps',
+  type: 'maps'
 };

@@ -2052,5 +2052,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'paraiba',
-  type: 'maps',
+  type: 'maps'
 };

@@ -95,5 +95,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'razgrad',
-  type: 'maps',
+  type: 'maps'
 };

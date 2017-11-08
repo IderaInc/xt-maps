@@ -88,5 +88,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'northernterritory',
-  type: 'maps',
+  type: 'maps'
 };

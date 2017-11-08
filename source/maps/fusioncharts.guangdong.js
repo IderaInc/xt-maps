@@ -231,5 +231,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'guangdong',
-  type: 'maps',
+  type: 'maps'
 };

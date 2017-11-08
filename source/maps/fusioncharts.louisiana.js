@@ -613,5 +613,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'louisiana',
-  type: 'maps',
+  type: 'maps'
 };

@@ -86,5 +86,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'usanorthwestregion',
-  type: 'maps',
+  type: 'maps'
 };

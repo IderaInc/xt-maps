@@ -158,5 +158,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'malatya',
-  type: 'maps',
+  type: 'maps'
 };

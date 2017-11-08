@@ -163,5 +163,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'northkorea',
-  type: 'maps',
+  type: 'maps'
 };

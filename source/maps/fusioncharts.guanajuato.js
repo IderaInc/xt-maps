@@ -446,5 +446,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'guanajuato',
-  type: 'maps',
+  type: 'maps'
 };

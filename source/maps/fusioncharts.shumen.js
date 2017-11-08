@@ -122,5 +122,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'shumen',
-  type: 'maps',
+  type: 'maps'
 };

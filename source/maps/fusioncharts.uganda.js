@@ -1076,5 +1076,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'uganda',
-  type: 'maps',
+  type: 'maps'
 };

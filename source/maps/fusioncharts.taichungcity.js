@@ -293,5 +293,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'taichungcity',
-  type: 'maps',
+  type: 'maps'
 };

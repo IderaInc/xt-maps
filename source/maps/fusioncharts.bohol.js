@@ -485,5 +485,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'bohol',
-  type: 'maps',
+  type: 'maps'
 };

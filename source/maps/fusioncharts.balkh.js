@@ -158,5 +158,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'balkh',
-  type: 'maps',
+  type: 'maps'
 };

@@ -261,5 +261,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'southjeolla',
-  type: 'maps',
+  type: 'maps'
 };

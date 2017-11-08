@@ -419,5 +419,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'india',
-  type: 'maps',
+  type: 'maps'
 };

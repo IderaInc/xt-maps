@@ -50,5 +50,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'bucurestiilfov',
-  type: 'maps',
+  type: 'maps'
 };

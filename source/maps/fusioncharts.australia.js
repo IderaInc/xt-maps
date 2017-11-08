@@ -100,5 +100,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'australia',
-  type: 'maps',
+  type: 'maps'
 };

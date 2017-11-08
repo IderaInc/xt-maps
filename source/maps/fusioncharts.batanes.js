@@ -92,5 +92,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'batanes',
-  type: 'maps',
+  type: 'maps'
 };

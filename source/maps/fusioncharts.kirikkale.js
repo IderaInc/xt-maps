@@ -113,5 +113,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'kirikkale',
-  type: 'maps',
+  type: 'maps'
 };

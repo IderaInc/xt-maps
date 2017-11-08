@@ -324,5 +324,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'iran',
-  type: 'maps',
+  type: 'maps'
 };

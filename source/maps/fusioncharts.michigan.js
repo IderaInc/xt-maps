@@ -790,5 +790,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'michigan',
-  type: 'maps',
+  type: 'maps'
 };

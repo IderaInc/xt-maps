@@ -306,5 +306,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'cagayan',
-  type: 'maps',
+  type: 'maps'
 };

@@ -2035,5 +2035,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'maranhao',
-  type: 'maps',
+  type: 'maps'
 };

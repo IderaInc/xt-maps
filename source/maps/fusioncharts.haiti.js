@@ -126,5 +126,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'haiti',
-  type: 'maps',
+  type: 'maps'
 };

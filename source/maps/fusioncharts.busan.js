@@ -180,5 +180,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'busan',
-  type: 'maps',
+  type: 'maps'
 };

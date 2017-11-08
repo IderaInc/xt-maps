@@ -234,5 +234,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'akershus',
-  type: 'maps',
+  type: 'maps'
 };

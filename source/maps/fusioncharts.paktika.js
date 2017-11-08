@@ -167,5 +167,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'paktika',
-  type: 'maps',
+  type: 'maps'
 };

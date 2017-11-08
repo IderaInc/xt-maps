@@ -348,5 +348,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'sortrondelag',
-  type: 'maps',
+  type: 'maps'
 };

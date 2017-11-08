@@ -282,5 +282,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'troms',
-  type: 'maps',
+  type: 'maps'
 };

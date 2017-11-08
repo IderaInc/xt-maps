@@ -257,5 +257,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'serbiawokosovo',
-  type: 'maps',
+  type: 'maps'
 };

@@ -462,5 +462,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'okinawa',
-  type: 'maps',
+  type: 'maps'
 };

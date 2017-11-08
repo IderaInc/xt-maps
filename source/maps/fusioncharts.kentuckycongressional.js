@@ -87,5 +87,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'kentuckycongressional',
-  type: 'maps',
+  type: 'maps'
 };

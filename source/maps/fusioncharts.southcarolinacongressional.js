@@ -91,5 +91,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'southcarolinacongressional',
-  type: 'maps',
+  type: 'maps'
 };

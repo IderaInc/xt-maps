@@ -167,5 +167,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'vasterbotten',
-  type: 'maps',
+  type: 'maps'
 };

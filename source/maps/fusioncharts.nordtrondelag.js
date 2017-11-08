@@ -256,5 +256,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'nordtrondelag',
-  type: 'maps',
+  type: 'maps'
 };

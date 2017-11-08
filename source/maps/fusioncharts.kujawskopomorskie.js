@@ -239,5 +239,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'kujawskopomorskie',
-  type: 'maps',
+  type: 'maps'
 };

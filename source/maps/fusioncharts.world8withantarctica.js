@@ -434,5 +434,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'world8withantarctica',
-  type: 'maps',
+  type: 'maps'
 };

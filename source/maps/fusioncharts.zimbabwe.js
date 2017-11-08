@@ -128,5 +128,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'zimbabwe',
-  type: 'maps',
+  type: 'maps'
 };

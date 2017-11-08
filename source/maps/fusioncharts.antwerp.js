@@ -669,5 +669,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'antwerp',
-  type: 'maps',
+  type: 'maps'
 };

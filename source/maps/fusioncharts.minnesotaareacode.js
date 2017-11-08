@@ -98,5 +98,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'minnesotaareacode',
-  type: 'maps',
+  type: 'maps'
 };

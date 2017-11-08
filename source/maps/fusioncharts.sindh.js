@@ -239,5 +239,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'sindh',
-  type: 'maps',
+  type: 'maps'
 };

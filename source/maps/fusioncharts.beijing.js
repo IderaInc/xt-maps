@@ -176,5 +176,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'beijing',
-  type: 'maps',
+  type: 'maps'
 };

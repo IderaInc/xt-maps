@@ -329,5 +329,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'iwate',
-  type: 'maps',
+  type: 'maps'
 };

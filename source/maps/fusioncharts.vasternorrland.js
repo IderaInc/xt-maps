@@ -95,5 +95,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'vasternorrland',
-  type: 'maps',
+  type: 'maps'
 };

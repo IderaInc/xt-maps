@@ -366,5 +366,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'isabela',
-  type: 'maps',
+  type: 'maps'
 };

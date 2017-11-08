@@ -71,5 +71,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'brunei',
-  type: 'maps',
+  type: 'maps'
 };

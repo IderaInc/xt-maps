@@ -76,5 +76,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'lienchiangcounty',
-  type: 'maps',
+  type: 'maps'
 };

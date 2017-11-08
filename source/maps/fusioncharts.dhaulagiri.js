@@ -68,5 +68,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'dhaulagiri',
-  type: 'maps',
+  type: 'maps'
 };

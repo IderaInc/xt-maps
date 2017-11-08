@@ -307,5 +307,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'californiaareacode',
-  type: 'maps',
+  type: 'maps'
 };

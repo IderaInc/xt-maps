@@ -843,5 +843,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'russia',
-  type: 'maps',
+  type: 'maps'
 };

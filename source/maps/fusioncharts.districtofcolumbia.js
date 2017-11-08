@@ -73,5 +73,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'districtofcolumbia',
-  type: 'maps',
+  type: 'maps'
 };

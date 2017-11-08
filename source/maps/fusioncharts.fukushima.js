@@ -563,5 +563,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'fukushima',
-  type: 'maps',
+  type: 'maps'
 };

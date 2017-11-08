@@ -209,5 +209,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'southernleyte',
-  type: 'maps',
+  type: 'maps'
 };

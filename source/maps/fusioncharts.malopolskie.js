@@ -230,5 +230,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'malopolskie',
-  type: 'maps',
+  type: 'maps'
 };

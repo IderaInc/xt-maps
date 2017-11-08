@@ -257,5 +257,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'akita',
-  type: 'maps',
+  type: 'maps'
 };

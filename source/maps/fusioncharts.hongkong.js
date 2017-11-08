@@ -245,5 +245,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'hongkong',
-  type: 'maps',
+  type: 'maps'
 };

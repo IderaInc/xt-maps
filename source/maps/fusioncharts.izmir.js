@@ -304,5 +304,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'izmir',
-  type: 'maps',
+  type: 'maps'
 };

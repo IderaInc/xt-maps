@@ -310,5 +310,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'burma',
-  type: 'maps',
+  type: 'maps'
 };

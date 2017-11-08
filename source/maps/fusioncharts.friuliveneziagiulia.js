@@ -69,5 +69,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'friuliveneziagiulia',
-  type: 'maps',
+  type: 'maps'
 };

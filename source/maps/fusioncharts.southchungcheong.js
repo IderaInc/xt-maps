@@ -170,5 +170,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'southchungcheong',
-  type: 'maps',
+  type: 'maps'
 };

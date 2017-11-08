@@ -1729,5 +1729,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'pernambuco',
-  type: 'maps',
+  type: 'maps'
 };

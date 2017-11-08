@@ -258,5 +258,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'surigaodelnorte',
-  type: 'maps',
+  type: 'maps'
 };

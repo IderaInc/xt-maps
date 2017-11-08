@@ -140,5 +140,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'cankiri',
-  type: 'maps',
+  type: 'maps'
 };

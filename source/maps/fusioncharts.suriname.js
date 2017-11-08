@@ -130,5 +130,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'suriname',
-  type: 'maps',
+  type: 'maps'
 };

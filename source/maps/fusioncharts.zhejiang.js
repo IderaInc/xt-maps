@@ -150,5 +150,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'zhejiang',
-  type: 'maps',
+  type: 'maps'
 };

@@ -84,5 +84,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'falklandisland',
-  type: 'maps',
+  type: 'maps'
 };

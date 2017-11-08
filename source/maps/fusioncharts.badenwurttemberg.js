@@ -440,5 +440,5 @@ let M = 'M', // SVG MoveTo
 export default {
   extension: geodefinitions,
   name: 'badenwurttemberg',
-  type: 'maps',
+  type: 'maps'
 };
