@@ -31,6 +31,8 @@ Thumbs.db
 
 # - Prevent CI output files from being Added
 /out/
+/dist/
+/custom/
 
 # - Prevent diff backups from SourceTree from showing as commit.
 *.BACKUP.*

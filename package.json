@@ -33,7 +33,8 @@
     "test": "develop/ci/test/test",
     "dev:build": "NODE_ENV=development webpack",
     "prod:build": "NODE_ENV=production webpack",
-    "build": "npm run prod:build",
+    "custom:build": "NODE_ENV=custom webpack",
+    "build": "develop/ci/build/build",
     "add-wrapper": "gulp add-wrapper"
   },
   "jshintConfig": {
