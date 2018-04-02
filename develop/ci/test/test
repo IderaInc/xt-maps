@@ -9,10 +9,10 @@
 set -e;
 
 # Clean workspace directory
-if [ -d ./out ]; then
-    rm -rf ./out;
+if [ -d ./dist ]; then
+    rm -rf ./dist;
 fi
-mkdir ./out;
+mkdir ./dist;
 
 # Output git status if not drone
 if [ "${DRONE}" != true ]; then

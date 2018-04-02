@@ -1,0 +1,11 @@
+!function(modules){function __webpack_require__(moduleId){if(installedModules[moduleId])return installedModules[moduleId].exports;var module=installedModules[moduleId]={i:moduleId,l:!1,exports:{}};return modules[moduleId].call(module.exports,module,module.exports,__webpack_require__),module.l=!0,module.exports}var installedModules={};__webpack_require__.m=modules,__webpack_require__.c=installedModules,__webpack_require__.d=function(exports,name,getter){__webpack_require__.o(exports,name)||Object.defineProperty(exports,name,{configurable:!1,enumerable:!0,get:getter})},__webpack_require__.n=function(module){var getter=module&&module.__esModule?function(){return module["default"]}:function(){return module};return __webpack_require__.d(getter,"a",getter),getter},__webpack_require__.o=function(object,property){return Object.prototype.hasOwnProperty.call(object,property)},__webpack_require__.p="",__webpack_require__(__webpack_require__.s=27)}({0:function(module,exports){module.exports=FusionCharts},27:function(module,exports,__webpack_require__){"use strict";function _interopRequireDefault(obj){return obj&&obj.__esModule?obj:{"default":obj}}var _FusionCharts=__webpack_require__(0),_FusionCharts2=_interopRequireDefault(_FusionCharts),_fusioncharts=__webpack_require__(28),_fusioncharts2=_interopRequireDefault(_fusioncharts);_FusionCharts2["default"].addDep(_fusioncharts2["default"]),_FusionCharts2["default"].addFile("fusioncharts.melilla.js")},28:function(module,exports,__webpack_require__){"use strict";exports.__esModule=!0;/**!
+ * @license FusionCharts JavaScript Library
+ * Copyright FusionCharts Technologies LLP
+ * License Information at <http://www.fusioncharts.com/license>
+ *
+ * @author FusionCharts Technologies LLP
+ * @meta package_map_pack
+ * @id fusionmaps.Melilla.1.04-03-2017 11:58:22
+ */
+var geodefinitions=[{name:"Melilla",revision:1,standaloneInit:!0,baseWidth:275,baseHeight:400,baseScaleFactor:10,entities:{"ES.ME.ME":{outlines:[["M",2719,3020,"Q",2719,2116,2601,1174,2483,310,519,35,323,1331,87,2627,-189,4277,1658,3884,"Q",2719,3413,2719,3020,"Z"]],label:"Melilla",shortLabel:"ME",labelPosition:[138.5,199.7],labelAlignment:["center","middle"]}}}];exports["default"]={extension:geodefinitions,name:"melilla",type:"maps"}}});
+//# sourceMappingURL=fusioncharts.melilla.js.map
