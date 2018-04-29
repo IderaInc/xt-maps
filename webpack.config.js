@@ -5,7 +5,7 @@ let IS_DEV = process.env.NODE_ENV === 'development',
   sourceLocation = process.env.NODE_ENV === 'custom' ? './custom/wrappers/' : './source/wrappers/',
   entryObj = {},
   fs = require('fs'),
-  entries = fs.readdirSync('./source/wrappers/').filter(function (file) {
+  entries = fs.readdirSync(sourceLocation).filter(function (file) {
     return file.match(/.*\.js$/);
   });
 
@@ -70,6 +70,6 @@ module.exports = [{
       loader: 'babel-loader'
     }]
   },
-  devtool: 'source-map',
+  // devtool: 'source-map',
   plugins: getPlugins()
 }];

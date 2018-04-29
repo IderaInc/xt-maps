@@ -60,7 +60,7 @@
 /******/ 	__webpack_require__.p = "";
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 275);
+/******/ 	return __webpack_require__(__webpack_require__.s = 21);
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -72,7 +72,7 @@ module.exports = FusionCharts;
 
 /***/ }),
 
-/***/ 275:
+/***/ 21:
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -82,7 +82,7 @@ var _FusionCharts = __webpack_require__(0);
 
 var _FusionCharts2 = _interopRequireDefault(_FusionCharts);
 
-var _fusioncharts = __webpack_require__(276);
+var _fusioncharts = __webpack_require__(22);
 
 var _fusioncharts2 = _interopRequireDefault(_fusioncharts);
 
@@ -93,7 +93,7 @@ _FusionCharts2['default'].addFile('fusioncharts.southhamgyong.js');
 
 /***/ }),
 
-/***/ 276:
+/***/ 22:
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -107,7 +107,7 @@ exports.__esModule = true;
  *
  * @author FusionCharts Technologies LLP
  * @meta package_map_pack
- * @id fusionmaps.SouthHamgyong.18.08-13-2012 03:01:42
+ * @id fusionmaps.SouthHamgyong.1.08-04-2017 02:59:48
  */
 
 var M = 'M',
@@ -126,7 +126,7 @@ LFT = 'left',
     BTM = 'bottom',
     geodefinitions = [{
   "name": "SouthHamgyong",
-  "revision": 18,
+  "revision": 1,
   "standaloneInit": true,
   "baseWidth": 520,
   "baseHeight": 512,
