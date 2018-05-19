@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import vilareal from '../maps/fusioncharts.vilareal';
 
 FusionCharts.addDep(vilareal);

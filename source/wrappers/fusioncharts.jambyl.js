@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import jambyl from '../maps/fusioncharts.jambyl';
 
 FusionCharts.addDep(jambyl);

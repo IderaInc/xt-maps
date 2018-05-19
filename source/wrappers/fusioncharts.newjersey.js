@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import newjersey from '../maps/fusioncharts.newjersey';
 
 FusionCharts.addDep(newjersey);

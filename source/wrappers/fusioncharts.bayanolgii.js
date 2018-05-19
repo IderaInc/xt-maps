@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import bayanolgii from '../maps/fusioncharts.bayanolgii';
 
 FusionCharts.addDep(bayanolgii);

@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import pernik from '../maps/fusioncharts.pernik';
 
 FusionCharts.addDep(pernik);

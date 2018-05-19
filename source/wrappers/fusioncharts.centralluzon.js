@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import centralluzon from '../maps/fusioncharts.centralluzon';
 
 FusionCharts.addDep(centralluzon);

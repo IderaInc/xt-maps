@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import cyprus2 from '../maps/fusioncharts.cyprus2';
 
 FusionCharts.addDep(cyprus2);

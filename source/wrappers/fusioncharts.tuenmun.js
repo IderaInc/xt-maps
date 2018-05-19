@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import tuenmun from '../maps/fusioncharts.tuenmun';
 
 FusionCharts.addDep(tuenmun);

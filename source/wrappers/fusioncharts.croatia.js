@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import croatia from '../maps/fusioncharts.croatia';
 
 FusionCharts.addDep(croatia);

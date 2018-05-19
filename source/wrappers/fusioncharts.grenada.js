@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import grenada from '../maps/fusioncharts.grenada';
 
 FusionCharts.addDep(grenada);

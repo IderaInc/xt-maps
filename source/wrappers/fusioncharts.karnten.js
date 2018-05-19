@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import karnten from '../maps/fusioncharts.karnten';
 
 FusionCharts.addDep(karnten);

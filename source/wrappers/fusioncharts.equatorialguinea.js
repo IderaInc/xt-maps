@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import equatorialguinea from '../maps/fusioncharts.equatorialguinea';
 
 FusionCharts.addDep(equatorialguinea);

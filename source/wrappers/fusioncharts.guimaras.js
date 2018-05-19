@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import guimaras from '../maps/fusioncharts.guimaras';
 
 FusionCharts.addDep(guimaras);

@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import centru from '../maps/fusioncharts.centru';
 
 FusionCharts.addDep(centru);

@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import razgrad from '../maps/fusioncharts.razgrad';
 
 FusionCharts.addDep(razgrad);

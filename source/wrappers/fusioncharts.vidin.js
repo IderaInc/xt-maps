@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import vidin from '../maps/fusioncharts.vidin';
 
 FusionCharts.addDep(vidin);

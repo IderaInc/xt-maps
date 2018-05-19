@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import hasaka from '../maps/fusioncharts.hasaka';
 
 FusionCharts.addDep(hasaka);

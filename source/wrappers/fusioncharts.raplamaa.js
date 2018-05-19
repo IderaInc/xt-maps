@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import raplamaa from '../maps/fusioncharts.raplamaa';
 
 FusionCharts.addDep(raplamaa);

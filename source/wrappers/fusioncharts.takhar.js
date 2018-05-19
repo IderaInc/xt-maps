@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import takhar from '../maps/fusioncharts.takhar';
 
 FusionCharts.addDep(takhar);

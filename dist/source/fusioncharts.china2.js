@@ -1,3 +1,11 @@
+
+(function (factory) {
+  if (typeof module === 'object' && typeof module.exports !== "undefined") {
+      module.exports = factory;
+  } else {
+      factory(FusionCharts);
+  }
+}(function (FusionCharts) {
 /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
 /******/ 	var installedModules = {};
@@ -60,40 +68,29 @@
 /******/ 	__webpack_require__.p = "";
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 235);
+/******/ 	return __webpack_require__(__webpack_require__.s = 170);
 /******/ })
 /************************************************************************/
 /******/ ({
 
-/***/ 0:
-/***/ (function(module, exports) {
-
-module.exports = FusionCharts;
-
-/***/ }),
-
-/***/ 235:
+/***/ 170:
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
-var _FusionCharts = __webpack_require__(0);
-
-var _FusionCharts2 = _interopRequireDefault(_FusionCharts);
-
-var _fusioncharts = __webpack_require__(236);
+var _fusioncharts = __webpack_require__(171);
 
 var _fusioncharts2 = _interopRequireDefault(_fusioncharts);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { 'default': obj }; }
 
-_FusionCharts2['default'].addDep(_fusioncharts2['default']);
-_FusionCharts2['default'].addFile('fusioncharts.china2.js');
+FusionCharts.addDep(_fusioncharts2['default']);
+FusionCharts.addFile('fusioncharts.china2.js');
 
 /***/ }),
 
-/***/ 236:
+/***/ 171:
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -386,3 +383,4 @@ exports['default'] = {
 /***/ })
 
 /******/ });
+}));

@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import berat from '../maps/fusioncharts.berat';
 
 FusionCharts.addDep(berat);

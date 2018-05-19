@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import newmexico from '../maps/fusioncharts.newmexico';
 
 FusionCharts.addDep(newmexico);

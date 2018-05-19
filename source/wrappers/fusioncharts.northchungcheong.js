@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import northchungcheong from '../maps/fusioncharts.northchungcheong';
 
 FusionCharts.addDep(northchungcheong);

@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import lisboa from '../maps/fusioncharts.lisboa';
 
 FusionCharts.addDep(lisboa);

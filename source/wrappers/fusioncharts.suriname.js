@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import suriname from '../maps/fusioncharts.suriname';
 
 FusionCharts.addDep(suriname);

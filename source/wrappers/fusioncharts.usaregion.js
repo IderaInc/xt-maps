@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import usaregion from '../maps/fusioncharts.usaregion';
 
 FusionCharts.addDep(usaregion);

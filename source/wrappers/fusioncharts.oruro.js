@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import oruro from '../maps/fusioncharts.oruro';
 
 FusionCharts.addDep(oruro);

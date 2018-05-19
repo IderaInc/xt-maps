@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import lucerne from '../maps/fusioncharts.lucerne';
 
 FusionCharts.addDep(lucerne);

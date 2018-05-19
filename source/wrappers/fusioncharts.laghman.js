@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import laghman from '../maps/fusioncharts.laghman';
 
 FusionCharts.addDep(laghman);

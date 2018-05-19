@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import miyazaki from '../maps/fusioncharts.miyazaki';
 
 FusionCharts.addDep(miyazaki);

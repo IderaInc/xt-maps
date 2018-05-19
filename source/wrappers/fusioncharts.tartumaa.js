@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import tartumaa from '../maps/fusioncharts.tartumaa';
 
 FusionCharts.addDep(tartumaa);

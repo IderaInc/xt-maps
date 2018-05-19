@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import macedonia from '../maps/fusioncharts.macedonia';
 
 FusionCharts.addDep(macedonia);

@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import malopolskie from '../maps/fusioncharts.malopolskie';
 
 FusionCharts.addDep(malopolskie);

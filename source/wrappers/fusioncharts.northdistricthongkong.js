@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import northdistricthongkong from '../maps/fusioncharts.northdistricthongkong';
 
 FusionCharts.addDep(northdistricthongkong);

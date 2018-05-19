@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import ajitgarh from '../maps/fusioncharts.ajitgarh';
 
 FusionCharts.addDep(ajitgarh);

@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import launion from '../maps/fusioncharts.launion';
 
 FusionCharts.addDep(launion);

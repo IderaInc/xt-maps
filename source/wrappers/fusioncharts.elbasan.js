@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import elbasan from '../maps/fusioncharts.elbasan';
 
 FusionCharts.addDep(elbasan);

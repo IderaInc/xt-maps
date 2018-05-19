@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import soccsksargen from '../maps/fusioncharts.soccsksargen';
 
 FusionCharts.addDep(soccsksargen);

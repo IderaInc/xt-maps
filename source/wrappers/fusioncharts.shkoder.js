@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import shkoder from '../maps/fusioncharts.shkoder';
 
 FusionCharts.addDep(shkoder);

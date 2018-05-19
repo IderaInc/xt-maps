@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import davaooriental from '../maps/fusioncharts.davaooriental';
 
 FusionCharts.addDep(davaooriental);

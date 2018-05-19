@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import gisborne from '../maps/fusioncharts.gisborne';
 
 FusionCharts.addDep(gisborne);

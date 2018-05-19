@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import canterbury from '../maps/fusioncharts.canterbury';
 
 FusionCharts.addDep(canterbury);

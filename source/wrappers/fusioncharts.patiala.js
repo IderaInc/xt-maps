@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import patiala from '../maps/fusioncharts.patiala';
 
 FusionCharts.addDep(patiala);

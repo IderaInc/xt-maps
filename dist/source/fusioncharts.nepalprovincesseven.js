@@ -1,3 +1,11 @@
+
+(function (factory) {
+  if (typeof module === 'object' && typeof module.exports !== "undefined") {
+      module.exports = factory;
+  } else {
+      factory(FusionCharts);
+  }
+}(function (FusionCharts) {
 /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
 /******/ 	var installedModules = {};
@@ -60,40 +68,29 @@
 /******/ 	__webpack_require__.p = "";
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 189);
+/******/ 	return __webpack_require__(__webpack_require__.s = 320);
 /******/ })
 /************************************************************************/
 /******/ ({
 
-/***/ 0:
-/***/ (function(module, exports) {
-
-module.exports = FusionCharts;
-
-/***/ }),
-
-/***/ 189:
+/***/ 320:
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
-var _FusionCharts = __webpack_require__(0);
-
-var _FusionCharts2 = _interopRequireDefault(_FusionCharts);
-
-var _fusioncharts = __webpack_require__(190);
+var _fusioncharts = __webpack_require__(321);
 
 var _fusioncharts2 = _interopRequireDefault(_fusioncharts);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { 'default': obj }; }
 
-_FusionCharts2['default'].addDep(_fusioncharts2['default']);
-_FusionCharts2['default'].addFile('fusioncharts.nepalprovincesseven.js');
+FusionCharts.addDep(_fusioncharts2['default']);
+FusionCharts.addFile('fusioncharts.nepalprovincesseven.js');
 
 /***/ }),
 
-/***/ 190:
+/***/ 321:
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -207,3 +204,4 @@ exports['default'] = {
 /***/ })
 
 /******/ });
+}));

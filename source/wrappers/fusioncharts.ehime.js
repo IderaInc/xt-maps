@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import ehime from '../maps/fusioncharts.ehime';
 
 FusionCharts.addDep(ehime);

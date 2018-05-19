@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import maharashtra from '../maps/fusioncharts.maharashtra';
 
 FusionCharts.addDep(maharashtra);

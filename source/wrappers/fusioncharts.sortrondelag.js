@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import sortrondelag from '../maps/fusioncharts.sortrondelag';
 
 FusionCharts.addDep(sortrondelag);

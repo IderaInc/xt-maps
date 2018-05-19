@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import moreogromsdal from '../maps/fusioncharts.moreogromsdal';
 
 FusionCharts.addDep(moreogromsdal);

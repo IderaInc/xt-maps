@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import centralafricanrepublic from '../maps/fusioncharts.centralafricanrepublic';
 
 FusionCharts.addDep(centralafricanrepublic);

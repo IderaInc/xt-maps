@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import aklan from '../maps/fusioncharts.aklan';
 
 FusionCharts.addDep(aklan);

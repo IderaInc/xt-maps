@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import cameroon from '../maps/fusioncharts.cameroon';
 
 FusionCharts.addDep(cameroon);

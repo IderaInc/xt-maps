@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import nantoucounty from '../maps/fusioncharts.nantoucounty';
 
 FusionCharts.addDep(nantoucounty);

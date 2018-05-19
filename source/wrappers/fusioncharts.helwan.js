@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import helwan from '../maps/fusioncharts.helwan';
 
 FusionCharts.addDep(helwan);

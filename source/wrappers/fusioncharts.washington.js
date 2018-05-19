@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import washington from '../maps/fusioncharts.washington';
 
 FusionCharts.addDep(washington);

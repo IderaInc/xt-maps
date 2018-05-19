@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import washingtonareacode from '../maps/fusioncharts.washingtonareacode';
 
 FusionCharts.addDep(washingtonareacode);

@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import hunan from '../maps/fusioncharts.hunan';
 
 FusionCharts.addDep(hunan);

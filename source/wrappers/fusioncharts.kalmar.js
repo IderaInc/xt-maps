@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import kalmar from '../maps/fusioncharts.kalmar';
 
 FusionCharts.addDep(kalmar);

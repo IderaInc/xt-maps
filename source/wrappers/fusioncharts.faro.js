@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import faro from '../maps/fusioncharts.faro';
 
 FusionCharts.addDep(faro);

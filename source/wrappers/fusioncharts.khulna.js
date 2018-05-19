@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import khulna from '../maps/fusioncharts.khulna';
 
 FusionCharts.addDep(khulna);

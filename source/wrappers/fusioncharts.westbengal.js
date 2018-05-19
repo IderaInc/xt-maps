@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import westbengal from '../maps/fusioncharts.westbengal';
 
 FusionCharts.addDep(westbengal);

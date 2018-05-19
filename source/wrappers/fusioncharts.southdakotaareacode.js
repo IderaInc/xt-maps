@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import southdakotaareacode from '../maps/fusioncharts.southdakotaareacode';
 
 FusionCharts.addDep(southdakotaareacode);

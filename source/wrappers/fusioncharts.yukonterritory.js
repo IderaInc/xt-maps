@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import yukonterritory from '../maps/fusioncharts.yukonterritory';
 
 FusionCharts.addDep(yukonterritory);

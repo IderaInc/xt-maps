@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import puertoricocongressional from '../maps/fusioncharts.puertoricocongressional';
 
 FusionCharts.addDep(puertoricocongressional);

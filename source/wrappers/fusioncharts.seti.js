@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import seti from '../maps/fusioncharts.seti';
 
 FusionCharts.addDep(seti);

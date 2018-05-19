@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import zamboangapeninsula from '../maps/fusioncharts.zamboangapeninsula';
 
 FusionCharts.addDep(zamboangapeninsula);

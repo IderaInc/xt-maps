@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import taoyuancity from '../maps/fusioncharts.taoyuancity';
 
 FusionCharts.addDep(taoyuancity);

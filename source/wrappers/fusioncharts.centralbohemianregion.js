@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import centralbohemianregion from '../maps/fusioncharts.centralbohemianregion';
 
 FusionCharts.addDep(centralbohemianregion);

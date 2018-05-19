@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import salavan from '../maps/fusioncharts.salavan';
 
 FusionCharts.addDep(salavan);

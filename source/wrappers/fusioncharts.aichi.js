@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import aichi from '../maps/fusioncharts.aichi';
 
 FusionCharts.addDep(aichi);

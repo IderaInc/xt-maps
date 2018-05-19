@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import hungary from '../maps/fusioncharts.hungary';
 
 FusionCharts.addDep(hungary);

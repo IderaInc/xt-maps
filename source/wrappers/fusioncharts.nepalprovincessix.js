@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import nepalprovincessix from '../maps/fusioncharts.nepalprovincessix';
 
 FusionCharts.addDep(nepalprovincessix);

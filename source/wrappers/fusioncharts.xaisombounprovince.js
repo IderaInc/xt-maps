@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import xaisombounprovince from '../maps/fusioncharts.xaisombounprovince';
 
 FusionCharts.addDep(xaisombounprovince);

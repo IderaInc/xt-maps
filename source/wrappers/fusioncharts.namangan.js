@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import namangan from '../maps/fusioncharts.namangan';
 
 FusionCharts.addDep(namangan);

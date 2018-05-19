@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import shumen from '../maps/fusioncharts.shumen';
 
 FusionCharts.addDep(shumen);

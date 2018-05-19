@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import tirana from '../maps/fusioncharts.tirana';
 
 FusionCharts.addDep(tirana);

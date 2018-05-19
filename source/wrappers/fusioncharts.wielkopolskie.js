@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import wielkopolskie from '../maps/fusioncharts.wielkopolskie';
 
 FusionCharts.addDep(wielkopolskie);

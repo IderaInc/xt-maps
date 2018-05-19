@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import darkhanuul from '../maps/fusioncharts.darkhanuul';
 
 FusionCharts.addDep(darkhanuul);

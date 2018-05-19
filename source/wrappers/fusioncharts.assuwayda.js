@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import assuwayda from '../maps/fusioncharts.assuwayda';
 
 FusionCharts.addDep(assuwayda);

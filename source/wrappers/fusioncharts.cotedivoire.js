@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import cotedivoire from '../maps/fusioncharts.cotedivoire';
 
 FusionCharts.addDep(cotedivoire);

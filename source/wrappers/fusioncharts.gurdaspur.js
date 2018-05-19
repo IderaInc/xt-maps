@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import gurdaspur from '../maps/fusioncharts.gurdaspur';
 
 FusionCharts.addDep(gurdaspur);

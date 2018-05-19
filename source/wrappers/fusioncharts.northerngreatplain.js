@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import northerngreatplain from '../maps/fusioncharts.northerngreatplain';
 
 FusionCharts.addDep(northerngreatplain);

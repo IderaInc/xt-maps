@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import centraltransdanubia from '../maps/fusioncharts.centraltransdanubia';
 
 FusionCharts.addDep(centraltransdanubia);

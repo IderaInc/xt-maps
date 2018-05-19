@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import rangpur from '../maps/fusioncharts.rangpur';
 
 FusionCharts.addDep(rangpur);

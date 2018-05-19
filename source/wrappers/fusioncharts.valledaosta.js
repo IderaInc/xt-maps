@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import valledaosta from '../maps/fusioncharts.valledaosta';
 
 FusionCharts.addDep(valledaosta);

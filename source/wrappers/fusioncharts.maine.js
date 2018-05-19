@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import maine from '../maps/fusioncharts.maine';
 
 FusionCharts.addDep(maine);

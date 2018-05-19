@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import valgamaa from '../maps/fusioncharts.valgamaa';
 
 FusionCharts.addDep(valgamaa);

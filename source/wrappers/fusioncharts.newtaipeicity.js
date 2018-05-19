@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import newtaipeicity from '../maps/fusioncharts.newtaipeicity';
 
 FusionCharts.addDep(newtaipeicity);

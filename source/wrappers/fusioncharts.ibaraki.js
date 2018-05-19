@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import ibaraki from '../maps/fusioncharts.ibaraki';
 
 FusionCharts.addDep(ibaraki);

@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import bern from '../maps/fusioncharts.bern';
 
 FusionCharts.addDep(bern);

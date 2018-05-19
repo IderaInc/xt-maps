@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import indianaareacode from '../maps/fusioncharts.indianaareacode';
 
 FusionCharts.addDep(indianaareacode);

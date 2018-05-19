@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import montana from '../maps/fusioncharts.montana';
 
 FusionCharts.addDep(montana);

@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import appenzellausserrhoden from '../maps/fusioncharts.appenzellausserrhoden';
 
 FusionCharts.addDep(appenzellausserrhoden);

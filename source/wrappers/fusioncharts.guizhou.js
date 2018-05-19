@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import guizhou from '../maps/fusioncharts.guizhou';
 
 FusionCharts.addDep(guizhou);

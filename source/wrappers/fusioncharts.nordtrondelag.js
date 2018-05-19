@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import nordtrondelag from '../maps/fusioncharts.nordtrondelag';
 
 FusionCharts.addDep(nordtrondelag);

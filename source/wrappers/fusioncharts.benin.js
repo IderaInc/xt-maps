@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import benin from '../maps/fusioncharts.benin';
 
 FusionCharts.addDep(benin);

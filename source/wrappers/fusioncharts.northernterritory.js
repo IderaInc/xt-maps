@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import northernterritory from '../maps/fusioncharts.northernterritory';
 
 FusionCharts.addDep(northernterritory);

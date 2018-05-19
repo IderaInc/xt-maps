@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import suhaj from '../maps/fusioncharts.suhaj';
 
 FusionCharts.addDep(suhaj);

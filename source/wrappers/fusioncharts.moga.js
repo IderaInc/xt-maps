@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import moga from '../maps/fusioncharts.moga';
 
 FusionCharts.addDep(moga);

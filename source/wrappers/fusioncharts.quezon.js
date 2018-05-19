@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import quezon from '../maps/fusioncharts.quezon';
 
 FusionCharts.addDep(quezon);

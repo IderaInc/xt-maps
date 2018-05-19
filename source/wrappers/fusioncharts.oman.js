@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import oman from '../maps/fusioncharts.oman';
 
 FusionCharts.addDep(oman);

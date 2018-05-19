@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import alaskaareacode from '../maps/fusioncharts.alaskaareacode';
 
 FusionCharts.addDep(alaskaareacode);

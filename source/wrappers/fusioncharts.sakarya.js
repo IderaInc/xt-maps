@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import sakarya from '../maps/fusioncharts.sakarya';
 
 FusionCharts.addDep(sakarya);

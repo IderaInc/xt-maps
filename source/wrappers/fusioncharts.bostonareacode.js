@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import bostonareacode from '../maps/fusioncharts.bostonareacode';
 
 FusionCharts.addDep(bostonareacode);

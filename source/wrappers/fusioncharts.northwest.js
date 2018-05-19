@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import northwest from '../maps/fusioncharts.northwest';
 
 FusionCharts.addDep(northwest);

@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import utahareacode from '../maps/fusioncharts.utahareacode';
 
 FusionCharts.addDep(utahareacode);

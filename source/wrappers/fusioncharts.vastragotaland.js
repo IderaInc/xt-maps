@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import vastragotaland from '../maps/fusioncharts.vastragotaland';
 
 FusionCharts.addDep(vastragotaland);

@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import huaphan from '../maps/fusioncharts.huaphan';
 
 FusionCharts.addDep(huaphan);

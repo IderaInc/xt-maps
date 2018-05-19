@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import zavkhan from '../maps/fusioncharts.zavkhan';
 
 FusionCharts.addDep(zavkhan);

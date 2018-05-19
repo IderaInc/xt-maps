@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import acre from '../maps/fusioncharts.acre';
 
 FusionCharts.addDep(acre);

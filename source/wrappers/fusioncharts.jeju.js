@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import jeju from '../maps/fusioncharts.jeju';
 
 FusionCharts.addDep(jeju);

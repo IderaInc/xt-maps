@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import americansamoacongressional from '../maps/fusioncharts.americansamoacongressional';
 
 FusionCharts.addDep(americansamoacongressional);

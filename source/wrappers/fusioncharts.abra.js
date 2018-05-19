@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import abra from '../maps/fusioncharts.abra';
 
 FusionCharts.addDep(abra);

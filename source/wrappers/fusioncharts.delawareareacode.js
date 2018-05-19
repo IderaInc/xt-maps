@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import delawareareacode from '../maps/fusioncharts.delawareareacode';
 
 FusionCharts.addDep(delawareareacode);

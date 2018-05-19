@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import veneto from '../maps/fusioncharts.veneto';
 
 FusionCharts.addDep(veneto);

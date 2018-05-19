@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import centralhungary from '../maps/fusioncharts.centralhungary';
 
 FusionCharts.addDep(centralhungary);

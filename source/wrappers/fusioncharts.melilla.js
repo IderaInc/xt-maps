@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import melilla from '../maps/fusioncharts.melilla';
 
 FusionCharts.addDep(melilla);

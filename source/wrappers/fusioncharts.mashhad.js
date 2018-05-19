@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import mashhad from '../maps/fusioncharts.mashhad';
 
 FusionCharts.addDep(mashhad);

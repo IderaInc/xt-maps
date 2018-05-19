@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import bursa from '../maps/fusioncharts.bursa';
 
 FusionCharts.addDep(bursa);

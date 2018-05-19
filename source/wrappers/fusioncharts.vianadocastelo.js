@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import vianadocastelo from '../maps/fusioncharts.vianadocastelo';
 
 FusionCharts.addDep(vianadocastelo);

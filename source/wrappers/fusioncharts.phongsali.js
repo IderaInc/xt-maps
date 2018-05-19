@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import phongsali from '../maps/fusioncharts.phongsali';
 
 FusionCharts.addDep(phongsali);

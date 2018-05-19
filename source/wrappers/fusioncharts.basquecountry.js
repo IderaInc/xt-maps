@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import basquecountry from '../maps/fusioncharts.basquecountry';
 
 FusionCharts.addDep(basquecountry);

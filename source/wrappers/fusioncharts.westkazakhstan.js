@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import westkazakhstan from '../maps/fusioncharts.westkazakhstan';
 
 FusionCharts.addDep(westkazakhstan);

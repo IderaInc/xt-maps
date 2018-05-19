@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import vermontcongressional from '../maps/fusioncharts.vermontcongressional';
 
 FusionCharts.addDep(vermontcongressional);

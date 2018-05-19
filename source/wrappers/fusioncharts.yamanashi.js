@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import yamanashi from '../maps/fusioncharts.yamanashi';
 
 FusionCharts.addDep(yamanashi);

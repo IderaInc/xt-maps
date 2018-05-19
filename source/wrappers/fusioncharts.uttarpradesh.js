@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import uttarpradesh from '../maps/fusioncharts.uttarpradesh';
 
 FusionCharts.addDep(uttarpradesh);

@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import centralsingapore from '../maps/fusioncharts.centralsingapore';
 
 FusionCharts.addDep(centralsingapore);

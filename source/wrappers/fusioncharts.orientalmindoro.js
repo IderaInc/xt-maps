@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import orientalmindoro from '../maps/fusioncharts.orientalmindoro';
 
 FusionCharts.addDep(orientalmindoro);

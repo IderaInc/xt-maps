@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import malawi from '../maps/fusioncharts.malawi';
 
 FusionCharts.addDep(malawi);

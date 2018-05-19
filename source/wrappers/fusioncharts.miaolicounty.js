@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import miaolicounty from '../maps/fusioncharts.miaolicounty';
 
 FusionCharts.addDep(miaolicounty);

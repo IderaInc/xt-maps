@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import lanaodelnorte from '../maps/fusioncharts.lanaodelnorte';
 
 FusionCharts.addDep(lanaodelnorte);

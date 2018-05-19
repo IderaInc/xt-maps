@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import hubei from '../maps/fusioncharts.hubei';
 
 FusionCharts.addDep(hubei);

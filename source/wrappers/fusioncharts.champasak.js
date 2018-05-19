@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import champasak from '../maps/fusioncharts.champasak';
 
 FusionCharts.addDep(champasak);

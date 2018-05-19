@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import saintgallen from '../maps/fusioncharts.saintgallen';
 
 FusionCharts.addDep(saintgallen);

@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import northerncaliforniabayareacode from '../maps/fusioncharts.northerncaliforniabayareacode';
 
 FusionCharts.addDep(northerncaliforniabayareacode);

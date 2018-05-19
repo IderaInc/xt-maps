@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import lombardy from '../maps/fusioncharts.lombardy';
 
 FusionCharts.addDep(lombardy);

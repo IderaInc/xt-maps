@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import rupnagar from '../maps/fusioncharts.rupnagar';
 
 FusionCharts.addDep(rupnagar);

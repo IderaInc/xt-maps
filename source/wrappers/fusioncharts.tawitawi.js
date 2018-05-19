@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import tawitawi from '../maps/fusioncharts.tawitawi';
 
 FusionCharts.addDep(tawitawi);

@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import changhuacounty from '../maps/fusioncharts.changhuacounty';
 
 FusionCharts.addDep(changhuacounty);

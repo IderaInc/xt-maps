@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import kwuntong from '../maps/fusioncharts.kwuntong';
 
 FusionCharts.addDep(kwuntong);

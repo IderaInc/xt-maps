@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import ainaro from '../maps/fusioncharts.ainaro';
 
 FusionCharts.addDep(ainaro);

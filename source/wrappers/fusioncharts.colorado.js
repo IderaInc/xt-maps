@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import colorado from '../maps/fusioncharts.colorado';
 
 FusionCharts.addDep(colorado);

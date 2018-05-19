@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import southhamgyong from '../maps/fusioncharts.southhamgyong';
 
 FusionCharts.addDep(southhamgyong);

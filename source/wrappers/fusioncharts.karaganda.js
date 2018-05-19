@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import karaganda from '../maps/fusioncharts.karaganda';
 
 FusionCharts.addDep(karaganda);

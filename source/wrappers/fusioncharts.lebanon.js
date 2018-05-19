@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import lebanon from '../maps/fusioncharts.lebanon';
 
 FusionCharts.addDep(lebanon);

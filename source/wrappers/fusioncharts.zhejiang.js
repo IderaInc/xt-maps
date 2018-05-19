@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import zhejiang from '../maps/fusioncharts.zhejiang';
 
 FusionCharts.addDep(zhejiang);

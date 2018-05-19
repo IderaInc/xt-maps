@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import alabamacongressional from '../maps/fusioncharts.alabamacongressional';
 
 FusionCharts.addDep(alabamacongressional);

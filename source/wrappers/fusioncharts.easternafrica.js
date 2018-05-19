@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import easternafrica from '../maps/fusioncharts.easternafrica';
 
 FusionCharts.addDep(easternafrica);

@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import ostergotland from '../maps/fusioncharts.ostergotland';
 
 FusionCharts.addDep(ostergotland);

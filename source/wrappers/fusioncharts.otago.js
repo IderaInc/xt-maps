@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import otago from '../maps/fusioncharts.otago';
 
 FusionCharts.addDep(otago);

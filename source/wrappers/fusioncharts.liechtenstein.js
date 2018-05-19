@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import liechtenstein from '../maps/fusioncharts.liechtenstein';
 
 FusionCharts.addDep(liechtenstein);

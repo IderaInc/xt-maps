@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import nationalcapitalregion from '../maps/fusioncharts.nationalcapitalregion';
 
 FusionCharts.addDep(nationalcapitalregion);

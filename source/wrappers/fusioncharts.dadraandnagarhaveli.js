@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import dadraandnagarhaveli from '../maps/fusioncharts.dadraandnagarhaveli';
 
 FusionCharts.addDep(dadraandnagarhaveli);

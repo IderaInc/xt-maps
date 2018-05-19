@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import sikkim from '../maps/fusioncharts.sikkim';
 
 FusionCharts.addDep(sikkim);

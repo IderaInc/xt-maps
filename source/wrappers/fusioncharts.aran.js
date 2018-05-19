@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import aran from '../maps/fusioncharts.aran';
 
 FusionCharts.addDep(aran);

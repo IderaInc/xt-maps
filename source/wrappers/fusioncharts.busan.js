@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import busan from '../maps/fusioncharts.busan';
 
 FusionCharts.addDep(busan);

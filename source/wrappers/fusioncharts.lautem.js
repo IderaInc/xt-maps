@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import lautem from '../maps/fusioncharts.lautem';
 
 FusionCharts.addDep(lautem);

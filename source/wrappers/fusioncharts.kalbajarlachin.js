@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import kalbajarlachin from '../maps/fusioncharts.kalbajarlachin';
 
 FusionCharts.addDep(kalbajarlachin);

@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import umbria from '../maps/fusioncharts.umbria';
 
 FusionCharts.addDep(umbria);

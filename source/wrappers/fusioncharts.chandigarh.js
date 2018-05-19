@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import chandigarh from '../maps/fusioncharts.chandigarh';
 
 FusionCharts.addDep(chandigarh);

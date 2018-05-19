@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import jizan from '../maps/fusioncharts.jizan';
 
 FusionCharts.addDep(jizan);

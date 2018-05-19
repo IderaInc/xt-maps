@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import newsouthwales from '../maps/fusioncharts.newsouthwales';
 
 FusionCharts.addDep(newsouthwales);

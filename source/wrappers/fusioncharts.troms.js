@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import troms from '../maps/fusioncharts.troms';
 
 FusionCharts.addDep(troms);

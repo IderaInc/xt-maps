@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import gwangju from '../maps/fusioncharts.gwangju';
 
 FusionCharts.addDep(gwangju);

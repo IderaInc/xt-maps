@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import hail from '../maps/fusioncharts.hail';
 
 FusionCharts.addDep(hail);

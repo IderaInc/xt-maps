@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import taiwan from '../maps/fusioncharts.taiwan';
 
 FusionCharts.addDep(taiwan);

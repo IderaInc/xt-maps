@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import andorra from '../maps/fusioncharts.andorra';
 
 FusionCharts.addDep(andorra);

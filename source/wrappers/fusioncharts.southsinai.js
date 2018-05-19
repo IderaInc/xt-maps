@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import southsinai from '../maps/fusioncharts.southsinai';
 
 FusionCharts.addDep(southsinai);

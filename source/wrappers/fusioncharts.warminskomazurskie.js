@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import warminskomazurskie from '../maps/fusioncharts.warminskomazurskie';
 
 FusionCharts.addDep(warminskomazurskie);

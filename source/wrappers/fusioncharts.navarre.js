@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import navarre from '../maps/fusioncharts.navarre';
 
 FusionCharts.addDep(navarre);

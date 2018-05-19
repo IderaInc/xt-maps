@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import lyon from '../maps/fusioncharts.lyon';
 
 FusionCharts.addDep(lyon);

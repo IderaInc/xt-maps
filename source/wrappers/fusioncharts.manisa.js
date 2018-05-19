@@ -1,4 +1,3 @@
-import FusionCharts from 'FusionCharts';
 import manisa from '../maps/fusioncharts.manisa';
 
 FusionCharts.addDep(manisa);
