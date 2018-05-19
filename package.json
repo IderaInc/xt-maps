@@ -27,7 +27,8 @@
     "gulp": "3.9.1",
     "gulp-wrap": "^0.13.0",
     "jshint": "2.4.2",
-    "metascript": "0.18.0"
+    "metascript": "0.18.0",
+    "wrapper-webpack-plugin": "^1.0.0"
   },
   "scripts": {
     "test": "develop/ci/test/test",

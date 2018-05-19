@@ -1,5 +1,6 @@
 const path = require('path'),
-  webpack = require('webpack');
+  webpack = require('webpack'),
+  WrapperPlugin = require('wrapper-webpack-plugin');
 
 let IS_DEV = process.env.NODE_ENV === 'development',
   sourceLocation = process.env.NODE_ENV === 'custom' ? './custom/wrappers/' : './source/wrappers/',
@@ -7,18 +8,34 @@ let IS_DEV = process.env.NODE_ENV === 'development',
   fs = require('fs'),
   entries = fs.readdirSync(sourceLocation).filter(function (file) {
     return file.match(/.*\.js$/);
-  });
+  }),
+  moduleWrapperHeader = `
+(function (factory) {
+  if (typeof module === 'object' && typeof module.exports !== "undefined") {
+      module.exports = factory;
+  } else {
+      factory(FusionCharts);
+  }
+}(function (FusionCharts) {
+`,
+  moduleWrapperFooter = `
+}));
+`;
 
 entries.forEach(function (file) {
   entryObj[file.replace(/.js/g, '')] = sourceLocation + file;
 });
 
-function getPlugins () {
+function getPlugins (doMinify) {
+  var arr = [new WrapperPlugin({
+    test: /\.js$/,
+    header: moduleWrapperHeader,
+    footer: moduleWrapperFooter
+  })];
   if (IS_DEV) {
-    return [];
+    return arr;
   } else {
-    return [
-      new webpack.optimize.UglifyJsPlugin({
+    doMinify && arr.push(new webpack.optimize.UglifyJsPlugin({
         mangle: false,
         sourceMap: true,
         mangleProperties: {
@@ -32,8 +49,8 @@ function getPlugins () {
         output: {
           screw_ie8: false
         }
-      })
-    ];
+      }));
+    return arr;
   }
 }
 
@@ -43,16 +60,14 @@ module.exports = [{
     filename: '[name].js',
     path: path.resolve(__dirname, 'dist', 'source')
   },
-  externals: {
-    FusionCharts: 'FusionCharts'
-  },
   module: {
     rules: [{
       test: /\.js$/,
       exclude: /node_modules/,
       loader: 'babel-loader'
     }]
-  }
+  },
+  plugins: getPlugins()
 },
 {
   entry: entryObj,
@@ -60,9 +75,6 @@ module.exports = [{
     filename: '[name].js',
     path: path.resolve(__dirname, 'dist', 'minified')
   },
-  externals: {
-    FusionCharts: 'FusionCharts'
-  },
   module: {
     rules: [{
       test: /\.js$/,
@@ -70,6 +82,6 @@ module.exports = [{
       loader: 'babel-loader'
     }]
   },
-  // devtool: 'source-map',
-  plugins: getPlugins()
+  devtool: IS_DEV && 'source-map',
+  plugins: getPlugins(true)
 }];
