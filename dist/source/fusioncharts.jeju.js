@@ -68,18 +68,18 @@
 /******/ 	__webpack_require__.p = "";
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 222);
+/******/ 	return __webpack_require__(__webpack_require__.s = 6);
 /******/ })
 /************************************************************************/
 /******/ ({
 
-/***/ 222:
+/***/ 6:
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
-var _fusioncharts = __webpack_require__(223);
+var _fusioncharts = __webpack_require__(7);
 
 var _fusioncharts2 = _interopRequireDefault(_fusioncharts);
 
@@ -90,7 +90,7 @@ FusionCharts.addFile('fusioncharts.jeju.js');
 
 /***/ }),
 
-/***/ 223:
+/***/ 7:
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -104,7 +104,7 @@ exports.__esModule = true;
  *
  * @author FusionCharts Technologies LLP
  * @meta package_map_pack
- * @id fusionmaps.Jeju.1.08-29-2016 04:15:19
+ * @id fusionmaps.Jeju.1.08-01-2017 12:26:58
  */
 
 var M = 'M',
