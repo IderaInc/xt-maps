@@ -68,18 +68,18 @@
 /******/ 	__webpack_require__.p = "";
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 126);
+/******/ 	return __webpack_require__(__webpack_require__.s = 16);
 /******/ })
 /************************************************************************/
 /******/ ({
 
-/***/ 126:
+/***/ 16:
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
-var _fusioncharts = __webpack_require__(127);
+var _fusioncharts = __webpack_require__(17);
 
 var _fusioncharts2 = _interopRequireDefault(_fusioncharts);
 
@@ -90,7 +90,7 @@ FusionCharts.addFile('fusioncharts.rason.js');
 
 /***/ }),
 
-/***/ 127:
+/***/ 17:
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -104,7 +104,7 @@ exports.__esModule = true;
  *
  * @author FusionCharts Technologies LLP
  * @meta package_map_pack
- * @id fusionmaps.Rason.18.08-13-2012 10:47:02
+ * @id fusionmaps.Rason.1.08-04-2017 02:59:47
  */
 
 var M = 'M',
@@ -123,7 +123,7 @@ LFT = 'left',
     BTM = 'bottom',
     geodefinitions = [{
   "name": "Rason",
-  "revision": 18,
+  "revision": 1,
   "standaloneInit": true,
   "baseWidth": 199,
   "baseHeight": 242,

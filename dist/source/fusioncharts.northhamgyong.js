@@ -68,18 +68,18 @@
 /******/ 	__webpack_require__.p = "";
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 466);
+/******/ 	return __webpack_require__(__webpack_require__.s = 6);
 /******/ })
 /************************************************************************/
 /******/ ({
 
-/***/ 466:
+/***/ 6:
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
-var _fusioncharts = __webpack_require__(467);
+var _fusioncharts = __webpack_require__(7);
 
 var _fusioncharts2 = _interopRequireDefault(_fusioncharts);
 
@@ -90,7 +90,7 @@ FusionCharts.addFile('fusioncharts.northhamgyong.js');
 
 /***/ }),
 
-/***/ 467:
+/***/ 7:
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -104,7 +104,7 @@ exports.__esModule = true;
  *
  * @author FusionCharts Technologies LLP
  * @meta package_map_pack
- * @id fusionmaps.NorthHamgyong.18.08-10-2012 01:12:10
+ * @id fusionmaps.NorthHamgyong.1.08-04-2017 02:59:47
  */
 
 var M = 'M',
@@ -123,7 +123,7 @@ LFT = 'left',
     BTM = 'bottom',
     geodefinitions = [{
   "name": "NorthHamgyong",
-  "revision": 18,
+  "revision": 1,
   "standaloneInit": true,
   "baseWidth": 282,
   "baseHeight": 547,

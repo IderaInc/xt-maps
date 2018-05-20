@@ -68,18 +68,18 @@
 /******/ 	__webpack_require__.p = "";
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 30);
+/******/ 	return __webpack_require__(__webpack_require__.s = 20);
 /******/ })
 /************************************************************************/
 /******/ ({
 
-/***/ 30:
+/***/ 20:
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
-var _fusioncharts = __webpack_require__(31);
+var _fusioncharts = __webpack_require__(21);
 
 var _fusioncharts2 = _interopRequireDefault(_fusioncharts);
 
@@ -90,7 +90,7 @@ FusionCharts.addFile('fusioncharts.southhamgyong.js');
 
 /***/ }),
 
-/***/ 31:
+/***/ 21:
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -104,7 +104,7 @@ exports.__esModule = true;
  *
  * @author FusionCharts Technologies LLP
  * @meta package_map_pack
- * @id fusionmaps.SouthHamgyong.18.08-13-2012 03:01:42
+ * @id fusionmaps.SouthHamgyong.1.08-04-2017 02:59:48
  */
 
 var M = 'M',
@@ -123,7 +123,7 @@ LFT = 'left',
     BTM = 'bottom',
     geodefinitions = [{
   "name": "SouthHamgyong",
-  "revision": 18,
+  "revision": 1,
   "standaloneInit": true,
   "baseWidth": 520,
   "baseHeight": 512,
