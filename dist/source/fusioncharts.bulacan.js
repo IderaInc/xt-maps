@@ -68,29 +68,26 @@
 /******/ 	__webpack_require__.p = "";
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 16);
+/******/ 	return __webpack_require__(__webpack_require__.s = 0);
 /******/ })
 /************************************************************************/
-/******/ ({
-
-/***/ 16:
+/******/ ([
+/* 0 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
-var _fusioncharts = __webpack_require__(17);
+var _fusioncharts = __webpack_require__(1);
 
 var _fusioncharts2 = _interopRequireDefault(_fusioncharts);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { 'default': obj }; }
 
 FusionCharts.addDep(_fusioncharts2['default']);
-FusionCharts.addFile('fusioncharts.bulacan.js');
 
 /***/ }),
-
-/***/ 17:
+/* 1 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -307,6 +304,5 @@ exports['default'] = {
 };
 
 /***/ })
-
-/******/ });
+/******/ ]);
 }));

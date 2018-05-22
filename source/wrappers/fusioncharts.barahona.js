@@ -1,4 +1,3 @@
 import barahona from '../maps/fusioncharts.barahona';
 
 FusionCharts.addDep(barahona);
-FusionCharts.addFile('fusioncharts.barahona.js');

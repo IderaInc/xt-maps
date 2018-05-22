@@ -68,29 +68,26 @@
 /******/ 	__webpack_require__.p = "";
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 502);
+/******/ 	return __webpack_require__(__webpack_require__.s = 0);
 /******/ })
 /************************************************************************/
-/******/ ({
-
-/***/ 502:
+/******/ ([
+/* 0 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
-var _fusioncharts = __webpack_require__(503);
+var _fusioncharts = __webpack_require__(1);
 
 var _fusioncharts2 = _interopRequireDefault(_fusioncharts);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { 'default': obj }; }
 
 FusionCharts.addDep(_fusioncharts2['default']);
-FusionCharts.addFile('fusioncharts.nuristan.js');
 
 /***/ }),
-
-/***/ 503:
+/* 1 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -195,6 +192,5 @@ exports['default'] = {
 };
 
 /***/ })
-
-/******/ });
+/******/ ]);
 }));

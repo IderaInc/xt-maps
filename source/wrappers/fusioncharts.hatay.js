@@ -1,4 +1,3 @@
 import hatay from '../maps/fusioncharts.hatay';
 
 FusionCharts.addDep(hatay);
-FusionCharts.addFile('fusioncharts.hatay.js');
