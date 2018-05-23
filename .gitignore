@@ -33,6 +33,7 @@ Thumbs.db
 /out/
 /dist/source-maps/
 /custom/
+/source/wrappers/
 
 # - Prevent diff backups from SourceTree from showing as commit.
 *.BACKUP.*
