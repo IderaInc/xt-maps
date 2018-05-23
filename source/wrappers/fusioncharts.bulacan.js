@@ -1,3 +1,0 @@
-import bulacan from '../maps/fusioncharts.bulacan';
-
-FusionCharts.addDep(bulacan);

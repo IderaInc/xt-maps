@@ -1,3 +1,0 @@
-import lanaodelsur from '../maps/fusioncharts.lanaodelsur';
-
-FusionCharts.addDep(lanaodelsur);

@@ -1,3 +1,0 @@
-import jawf from '../maps/fusioncharts.jawf';
-
-FusionCharts.addDep(jawf);

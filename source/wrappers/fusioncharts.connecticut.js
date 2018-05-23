@@ -1,3 +1,0 @@
-import connecticut from '../maps/fusioncharts.connecticut';
-
-FusionCharts.addDep(connecticut);

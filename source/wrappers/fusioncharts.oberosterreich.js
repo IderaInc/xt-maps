@@ -1,3 +1,0 @@
-import oberosterreich from '../maps/fusioncharts.oberosterreich';
-
-FusionCharts.addDep(oberosterreich);
