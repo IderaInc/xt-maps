@@ -52,6 +52,11 @@
 /******/ 		}
 /******/ 	};
 /******/
+/******/ 	// define __esModule on exports
+/******/ 	__webpack_require__.r = function(exports) {
+/******/ 		Object.defineProperty(exports, '__esModule', { value: true });
+/******/ 	};
+/******/
 /******/ 	// getDefaultExport function for compatibility with non-harmony modules
 /******/ 	__webpack_require__.n = function(module) {
 /******/ 		var getter = module && module.__esModule ?
@@ -67,18 +72,20 @@
 /******/ 	// __webpack_public_path__
 /******/ 	__webpack_require__.p = "";
 /******/
+/******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 0);
+/******/ 	return __webpack_require__(__webpack_require__.s = 102);
 /******/ })
 /************************************************************************/
-/******/ ([
-/* 0 */
+/******/ ({
+
+/***/ 102:
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
-var _fusioncharts = __webpack_require__(1);
+var _fusioncharts = __webpack_require__(103);
 
 var _fusioncharts2 = _interopRequireDefault(_fusioncharts);
 
@@ -87,7 +94,8 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { 'd
 FusionCharts.addDep(_fusioncharts2['default']);
 
 /***/ }),
-/* 1 */
+
+/***/ 103:
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -283,5 +291,6 @@ exports['default'] = {
 };
 
 /***/ })
-/******/ ]);
+
+/******/ });
 }));

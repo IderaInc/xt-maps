@@ -1,9 +1,8 @@
 const path = require('path'),
-  webpack = require('webpack'),
+  SimpleProgressWebpackPlugin = require( 'simple-progress-webpack-plugin' );
   WrapperPlugin = require('wrapper-webpack-plugin'),
   UglifyJsPlugin = require('uglifyjs-webpack-plugin'),
   fs = require('fs-extra');
-
 
 let IS_DEV = process.env.NODE_ENV === 'development',
   sourceLocation = process.env.NODE_ENV === 'custom' ? './custom/maps/' : './source/maps/',
@@ -57,7 +56,7 @@ entries.forEach(function (file) {
   fs.ensureDirSync(wrapperLocation);
   fs.writeFileSync(wrapperLocation + file, wrapperTemplateStr, 'utf8');
 
-  entryObj[file.replace(/.js/g, '')] = wrapperLocation + file;
+  entryObj[file.replace(/\.js/g, '')] = wrapperLocation + file;
 });
 
 function getWebpackPlugins () {
@@ -66,6 +65,9 @@ function getWebpackPlugins () {
     header: moduleWrapperHeader,
     footer: moduleWrapperFooter
   })];
+  arr.push(new SimpleProgressWebpackPlugin({ // Default options
+    format: 'compact'
+  }));
   return arr;
 };
 
