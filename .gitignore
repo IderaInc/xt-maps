@@ -30,10 +30,9 @@ Thumbs.db
 .jshintrc
 
 # - Prevent CI output files from being Added
-/out/
-/dist/source-maps/
 /custom/
-/source/wrappers/
+/_temp_wrappers/
+/_temp_source-maps/
 
 # - Prevent diff backups from SourceTree from showing as commit.
 *.BACKUP.*
