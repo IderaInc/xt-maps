@@ -5,7 +5,7 @@
  *
  * @author FusionCharts Technologies LLP
  * @meta package_map_pack
- * @id fusionmaps.SpainProvinces.1.04-03-2017 11:44:50
+ * @id fusionmaps.SpainProvinces.1.05-18-2018 11:07:22
  */
 
 let M = 'M', // SVG MoveTo
@@ -21,10 +21,12 @@ let M = 'M', // SVG MoveTo
   geodefinitions = [{
   "name": "SpainProvinces",
   "revision": 1,
-  "standaloneInit": true,
+  "creditLabel": false,
+  "standaloneInit": false,
   "baseWidth": 810,
   "baseHeight": 570,
   "baseScaleFactor": 10,
+  "firstEntity": "035",
   "entities": {
     "035": {
       "outlines": [
@@ -36,7 +38,8 @@ let M = 'M', // SVG MoveTo
       "labelAlignment": [CEN, BTM],
       "labelConnectors": [
         [M, 4709, 4997, L, 4709, 4938]
-      ]
+      ],
+      "nextId": "016"
     },
     "016": {
       "outlines": [
@@ -48,7 +51,8 @@ let M = 'M', // SVG MoveTo
       "labelAlignment": [CEN, BTM],
       "labelConnectors": [
         [M, 3534, 4750, L, 3534, 4699]
-      ]
+      ],
+      "nextId": "027"
     },
     "027": {
       "outlines": [
@@ -57,7 +61,8 @@ let M = 'M', // SVG MoveTo
       "label": "La Coruña",
       "shortLabel": "LC",
       "labelPosition": [240.9, 62.8],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "032"
     },
     "032": {
       "outlines": [
@@ -66,7 +71,8 @@ let M = 'M', // SVG MoveTo
       "label": "Lugo",
       "shortLabel": "LU",
       "labelPosition": [288.1, 68.8],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "005"
     },
     "005": {
       "outlines": [
@@ -75,7 +81,8 @@ let M = 'M', // SVG MoveTo
       "label": "Asturias",
       "shortLabel": "AS",
       "labelPosition": [331.9, 55.4],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "014"
     },
     "014": {
       "outlines": [
@@ -84,7 +91,8 @@ let M = 'M', // SVG MoveTo
       "label": "Cantabria",
       "shortLabel": "CN",
       "labelPosition": [423, 63.4],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "040"
     },
     "040": {
       "outlines": [
@@ -93,7 +101,8 @@ let M = 'M', // SVG MoveTo
       "label": "Pontevedra",
       "shortLabel": "PO",
       "labelPosition": [238.8, 94.4],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "038"
     },
     "038": {
       "outlines": [
@@ -102,7 +111,8 @@ let M = 'M', // SVG MoveTo
       "label": "Ourense",
       "shortLabel": "OU",
       "labelPosition": [275.5, 115.3],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "030"
     },
     "030": {
       "outlines": [
@@ -111,7 +121,8 @@ let M = 'M', // SVG MoveTo
       "label": "León",
       "shortLabel": "LE",
       "labelPosition": [349.3, 92.9],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "051"
     },
     "051": {
       "outlines": [
@@ -120,7 +131,8 @@ let M = 'M', // SVG MoveTo
       "label": "Zamora",
       "shortLabel": "ZA",
       "labelPosition": [347.2, 147.7],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "050"
     },
     "050": {
       "outlines": [
@@ -129,7 +141,8 @@ let M = 'M', // SVG MoveTo
       "label": "Valladolid",
       "shortLabel": "VL",
       "labelPosition": [391, 150.9],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "039"
     },
     "039": {
       "outlines": [
@@ -138,7 +151,8 @@ let M = 'M', // SVG MoveTo
       "label": "Palencia",
       "shortLabel": "PA",
       "labelPosition": [404.2, 106],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "011"
     },
     "011": {
       "outlines": [
@@ -147,7 +161,8 @@ let M = 'M', // SVG MoveTo
       "label": "Burgos",
       "shortLabel": "BU",
       "labelPosition": [445, 109.8],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "041"
     },
     "041": {
       "outlines": [
@@ -156,7 +171,8 @@ let M = 'M', // SVG MoveTo
       "label": "Salamanca",
       "shortLabel": "SA",
       "labelPosition": [341.9, 194.6],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "006"
     },
     "006": {
       "outlines": [
@@ -165,7 +181,8 @@ let M = 'M', // SVG MoveTo
       "label": "Ávila",
       "shortLabel": "AV",
       "labelPosition": [384.3, 205.3],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "012"
     },
     "012": {
       "outlines": [
@@ -174,7 +191,8 @@ let M = 'M', // SVG MoveTo
       "label": "Cáceres",
       "shortLabel": "CA",
       "labelPosition": [329.8, 252.2],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "007"
     },
     "007": {
       "outlines": [
@@ -183,7 +201,8 @@ let M = 'M', // SVG MoveTo
       "label": "Badajoz",
       "shortLabel": "BA",
       "labelPosition": [322.6, 312.4],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "017"
     },
     "017": {
       "outlines": [
@@ -192,7 +211,8 @@ let M = 'M', // SVG MoveTo
       "label": "Ciudad Real",
       "shortLabel": "CR",
       "labelPosition": [432.7, 299],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "048"
     },
     "048": {
       "outlines": [
@@ -201,7 +221,8 @@ let M = 'M', // SVG MoveTo
       "label": "Toledo",
       "shortLabel": "TO",
       "labelPosition": [421.2, 253.1],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "033"
     },
     "033": {
       "outlines": [
@@ -210,7 +231,8 @@ let M = 'M', // SVG MoveTo
       "label": "Madrid",
       "shortLabel": "MA",
       "labelPosition": [435.2, 212.2],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "043"
     },
     "043": {
       "outlines": [
@@ -219,7 +241,8 @@ let M = 'M', // SVG MoveTo
       "label": "Segovia",
       "shortLabel": "SE",
       "labelPosition": [426.5, 172.4],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "023"
     },
     "023": {
       "outlines": [
@@ -228,7 +251,8 @@ let M = 'M', // SVG MoveTo
       "label": "Guadalajara",
       "shortLabel": "GA",
       "labelPosition": [481, 199.9],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "019"
     },
     "019": {
       "outlines": [
@@ -237,7 +261,8 @@ let M = 'M', // SVG MoveTo
       "label": "Cuenca",
       "shortLabel": "CU",
       "labelPosition": [505.1, 250.6],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "001"
     },
     "001": {
       "outlines": [
@@ -246,7 +271,8 @@ let M = 'M', // SVG MoveTo
       "label": "Albacete",
       "shortLabel": "AB",
       "labelPosition": [518, 312.7],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "036"
     },
     "036": {
       "outlines": [
@@ -255,7 +281,8 @@ let M = 'M', // SVG MoveTo
       "label": "Murcia",
       "shortLabel": "MU",
       "labelPosition": [536.2, 354.3],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "003"
     },
     "003": {
       "outlines": [
@@ -264,7 +291,8 @@ let M = 'M', // SVG MoveTo
       "label": "Alicante",
       "shortLabel": "AI",
       "labelPosition": [572.6, 329.5],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "026"
     },
     "026": {
       "outlines": [
@@ -273,7 +301,8 @@ let M = 'M', // SVG MoveTo
       "label": "Jaén",
       "shortLabel": "JA",
       "labelPosition": [448, 353.7],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "018"
     },
     "018": {
       "outlines": [
@@ -282,7 +311,8 @@ let M = 'M', // SVG MoveTo
       "label": "Córdoba",
       "shortLabel": "CO",
       "labelPosition": [389.5, 353.1],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "024"
     },
     "024": {
       "outlines": [
@@ -291,7 +321,8 @@ let M = 'M', // SVG MoveTo
       "label": "Huelva",
       "shortLabel": "HU",
       "labelPosition": [295.3, 377.8],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "044"
     },
     "044": {
       "outlines": [
@@ -300,7 +331,8 @@ let M = 'M', // SVG MoveTo
       "label": "Seville",
       "shortLabel": "SV",
       "labelPosition": [345.4, 387],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "013"
     },
     "013": {
       "outlines": [
@@ -309,7 +341,8 @@ let M = 'M', // SVG MoveTo
       "label": "Cádiz",
       "shortLabel": "CD",
       "labelPosition": [345, 435.4],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "034"
     },
     "034": {
       "outlines": [
@@ -318,7 +351,8 @@ let M = 'M', // SVG MoveTo
       "label": "Málaga",
       "shortLabel": "ML",
       "labelPosition": [390.2, 419.8],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "022"
     },
     "022": {
       "outlines": [
@@ -327,7 +361,8 @@ let M = 'M', // SVG MoveTo
       "label": "Granada",
       "shortLabel": "GR",
       "labelPosition": [449.7, 397.5],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "004"
     },
     "004": {
       "outlines": [
@@ -336,7 +371,8 @@ let M = 'M', // SVG MoveTo
       "label": "Almeria",
       "shortLabel": "AM",
       "labelPosition": [497.2, 398.5],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "049"
     },
     "049": {
       "outlines": [
@@ -346,7 +382,8 @@ let M = 'M', // SVG MoveTo
       "label": "Valencia",
       "shortLabel": "VA",
       "labelPosition": [566.9, 276.6],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "015"
     },
     "015": {
       "outlines": [
@@ -355,7 +392,8 @@ let M = 'M', // SVG MoveTo
       "label": "Castellón",
       "shortLabel": "CS",
       "labelPosition": [592, 227.8],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "047"
     },
     "047": {
       "outlines": [
@@ -364,7 +402,8 @@ let M = 'M', // SVG MoveTo
       "label": "Teruel",
       "shortLabel": "TE",
       "labelPosition": [559.5, 205.8],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "046"
     },
     "046": {
       "outlines": [
@@ -373,7 +412,8 @@ let M = 'M', // SVG MoveTo
       "label": "Tarragona",
       "shortLabel": "TA",
       "labelPosition": [627.1, 176.2],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "009"
     },
     "009": {
       "outlines": [
@@ -382,7 +422,8 @@ let M = 'M', // SVG MoveTo
       "label": "Barcelona",
       "shortLabel": "BR",
       "labelPosition": [675.7, 136.9],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "021"
     },
     "021": {
       "outlines": [
@@ -391,7 +432,8 @@ let M = 'M', // SVG MoveTo
       "label": "Girona",
       "shortLabel": "GI",
       "labelPosition": [710.1, 116.3],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "031"
     },
     "031": {
       "outlines": [
@@ -400,7 +442,8 @@ let M = 'M', // SVG MoveTo
       "label": "Lleida",
       "shortLabel": "LI",
       "labelPosition": [641.3, 121.5],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "025"
     },
     "025": {
       "outlines": [
@@ -410,7 +453,8 @@ let M = 'M', // SVG MoveTo
       "label": "Huesca",
       "shortLabel": "HE",
       "labelPosition": [591.1, 118.1],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "037"
     },
     "037": {
       "outlines": [
@@ -419,7 +463,8 @@ let M = 'M', // SVG MoveTo
       "label": "Navarre",
       "shortLabel": "NA",
       "labelPosition": [524.3, 93.6],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "045"
     },
     "045": {
       "outlines": [
@@ -428,7 +473,8 @@ let M = 'M', // SVG MoveTo
       "label": "Soria",
       "shortLabel": "SO",
       "labelPosition": [484, 150.9],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "028"
     },
     "028": {
       "outlines": [
@@ -437,7 +483,8 @@ let M = 'M', // SVG MoveTo
       "label": "La Rioja",
       "shortLabel": "LR",
       "labelPosition": [488.1, 112.6],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "002"
     },
     "002": {
       "outlines": [
@@ -447,16 +494,18 @@ let M = 'M', // SVG MoveTo
       "label": "Álava",
       "shortLabel": "AL",
       "labelPosition": [480.7, 81.9],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "020"
     },
     "020": {
       "outlines": [
         [M, 5172, 507, Q, 5158, 517, 5149, 527, 5141, 536, 5123, 539, 5109, 541, 5095, 544, 5088, 545, 5081, 546, 5072, 548, 5066, 550, 5046, 557, 5025, 556, 5011, 555, 4996, 553, 4981, 550, 4966, 547, 4951, 545, 4938, 537, 4936, 536, 4933, 535, 4929, 534, 4925, 533, 4927, 535, 4929, 538, 4932, 545, 4934, 552, 4937, 561, 4939, 570, 4920, 584, 4906, 604, 4901, 611, 4899, 622, 4898, 628, 4901, 633, 4903, 636, 4903, 639, 4903, 654, 4890, 665, 4889, 667, 4889, 670, 4889, 676, 4889, 681, 4888, 682, 4888, 682, 4888, 683, 4887, 683, 4888, 686, 4890, 692, 4891, 695, 4889, 698, 4886, 711, 4871, 722, 4868, 725, 4867, 727, 4866, 730, 4867, 733, 4869, 750, 4889, 749, 4904, 748, 4924, 746, 4930, 746, 4935, 749, 4937, 751, 4940, 752, 4949, 756, 4958, 756, 4968, 757, 4970, 764, 4971, 767, 4972, 768, 4982, 777, 4994, 784, 4997, 786, 5000, 786, 5008, 787, 5012, 785, 5018, 780, 5021, 768, 5024, 763, 5027, 759, 5028, 756, 5032, 755, 5039, 754, 5046, 758, 5058, 764, 5070, 764, 5078, 765, 5084, 757, 5091, 747, 5098, 737, 5100, 733, 5100, 730, 5100, 726, 5098, 723, 5092, 715, 5091, 705, 5090, 691, 5102, 690, 5104, 690, 5106, 689, 5120, 684, 5128, 676, 5130, 674, 5130, 670, 5131, 659, 5128, 652, 5135, 643, 5138, 635, 5131, 621, 5141, 613, 5158, 599, 5179, 596, 5191, 594, 5203, 595, 5205, 596, 5206, 594, 5207, 575, 5201, 565, 5201, 556, 5207, 553, 5208, 553, 5208, 552, 5211, 551, 5213, 551, 5215, 550, 5215, 548, 5215, 547, 5214, 544, 5213, 541, 5212, 539, 5210, 536, 5207, 533, 5198, 522, 5188, 510, Q, 5181, 500, 5172, 507, Z]
       ],
-      "label": "Guipúzcoa",
+      "label": "Gipuzkoa",
       "shortLabel": "GU",
       "labelPosition": [501.2, 64.6],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "010"
     },
     "010": {
       "outlines": [
@@ -465,7 +514,8 @@ let M = 'M', // SVG MoveTo
       "label": "Biscay",
       "shortLabel": "BI",
       "labelPosition": [478.2, 59.3],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "042"
     },
     "042": {
       "outlines": [
@@ -477,7 +527,8 @@ let M = 'M', // SVG MoveTo
       "label": "Santa Cruz de Tenerife",
       "shortLabel": "SC",
       "labelPosition": [96.6, 511.2],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "029"
     },
     "029": {
       "outlines": [
@@ -489,7 +540,8 @@ let M = 'M', // SVG MoveTo
       "label": "Las Palmas",
       "shortLabel": "LP",
       "labelPosition": [228.3, 501.2],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "008"
     },
     "008": {
       "outlines": [
@@ -502,7 +554,8 @@ let M = 'M', // SVG MoveTo
       "label": "Balearic Islands",
       "shortLabel": "BL",
       "labelPosition": [729.9, 254.3],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "052"
     },
     "052": {
       "outlines": [
