@@ -1,5 +1,0 @@
-import FusionCharts from 'FusionCharts';
-import rwanda from '../maps/fusioncharts.rwanda';
-
-FusionCharts.addDep(rwanda);
-FusionCharts.addFile('fusioncharts.rwanda.js');

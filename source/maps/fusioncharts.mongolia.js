@@ -5,7 +5,7 @@
  *
  * @author FusionCharts Technologies LLP
  * @meta package_map_pack
- * @id fusionmaps.Mongolia.1.04-06-2017 03:48:18
+ * @id fusionmaps.Mongolia.1.05-18-2018 11:07:22
  */
 
 let M = 'M', // SVG MoveTo
@@ -21,10 +21,12 @@ let M = 'M', // SVG MoveTo
   geodefinitions = [{
   "name": "Mongolia",
   "revision": 1,
-  "standaloneInit": true,
+  "creditLabel": false,
+  "standaloneInit": false,
   "baseWidth": 820,
   "baseHeight": 420,
   "baseScaleFactor": 10,
+  "firstEntity": "MN.ER",
   "entities": {
     "MN.ER": {
       "outlines": [
@@ -36,7 +38,8 @@ let M = 'M', // SVG MoveTo
       "labelAlignment": [CEN, TOP],
       "labelConnectors": [
         [M, 4230, 695, L, 4230, 1325]
-      ]
+      ],
+      "nextId": "MN.UB"
     },
     "MN.UB": {
       "outlines": [
@@ -44,10 +47,11 @@ let M = 'M', // SVG MoveTo
         [M, 5226, 1726, Q, 5224, 1727, 5223, 1731, 5220, 1740, 5216, 1750, 5214, 1755, 5209, 1757, 5208, 1758, 5207, 1759, 5206, 1762, 5205, 1765, 5205, 1766, 5205, 1768, 5204, 1770, 5204, 1773, 5203, 1777, 5203, 1782, 5202, 1787, 5202, 1793, 5202, 1802, 5202, 1812, 5202, 1817, 5203, 1822, 5204, 1823, 5204, 1825, 5204, 1829, 5206, 1831, 5209, 1832, 5209, 1835, 5209, 1836, 5210, 1837, 5212, 1841, 5213, 1846, 5214, 1848, 5215, 1850, 5216, 1851, 5216, 1851, 5219, 1852, 5220, 1853, 5225, 1856, 5229, 1859, 5231, 1859, 5232, 1860, 5236, 1863, 5240, 1862, 5241, 1862, 5242, 1862, 5248, 1861, 5252, 1858, 5253, 1857, 5253, 1856, 5254, 1845, 5254, 1835, 5253, 1834, 5253, 1834, 5254, 1833, 5254, 1832, 5255, 1832, 5255, 1831, L, 5255, 1831, Q, 5257, 1828, 5259, 1826, 5262, 1823, 5263, 1821, 5264, 1819, 5265, 1818, 5266, 1817, 5266, 1815, 5265, 1805, 5265, 1796, 5264, 1777, 5264, 1757, 5264, 1751, 5265, 1746, 5265, 1738, 5260, 1732, 5259, 1731, 5258, 1730, 5257, 1728, 5255, 1725, 5254, 1723, 5253, 1723, 5250, 1721, 5246, 1719, 5243, 1717, 5238, 1718, 5232, 1720, 5227, 1725, Q, 5227, 1725, 5226, 1726, Z],
         [M, 4921, 1626, Q, 4907, 1620, 4885, 1627, 4863, 1635, 4861, 1634, 4848, 1628, 4834, 1629, 4831, 1629, 4829, 1628, 4826, 1627, 4824, 1626, 4821, 1625, 4818, 1624, 4809, 1622, 4800, 1617, 4791, 1612, 4782, 1609, 4779, 1609, 4777, 1607, 4770, 1603, 4762, 1602, 4750, 1600, 4750, 1611, 4750, 1613, 4751, 1614, 4752, 1618, 4753, 1621, 4753, 1626, 4757, 1628, 4763, 1632, 4762, 1641, 4761, 1644, 4759, 1645, 4754, 1649, 4754, 1657, 4754, 1669, 4754, 1681, 4754, 1683, 4755, 1684, 4756, 1686, 4757, 1687, 4759, 1696, 4763, 1704, 4764, 1707, 4765, 1709, 4766, 1712, 4767, 1714, 4768, 1716, 4768, 1717, 4769, 1723, 4772, 1727, 4773, 1728, 4774, 1729, 4774, 1731, 4775, 1733, 4775, 1734, 4776, 1735, 4777, 1739, 4780, 1743, 4782, 1746, 4783, 1749, 4784, 1759, 4778, 1768, 4777, 1768, 4776, 1768, 4769, 1770, 4771, 1777, 4771, 1780, 4776, 1783, 4778, 1785, 4779, 1787, 4782, 1796, 4790, 1799, 4792, 1800, 4793, 1799, 4796, 1798, 4797, 1794, 4798, 1790, 4802, 1790, 4813, 1789, 4818, 1795, 4819, 1797, 4821, 1798, 4828, 1805, 4838, 1805, 4840, 1805, 4842, 1804, 4845, 1803, 4856, 1808, 4866, 1814, 4871, 1803, 4876, 1792, 4885, 1795, 4893, 1797, 4901, 1806, 4909, 1815, 4918, 1807, 4926, 1799, 4929, 1800, 4938, 1803, 4946, 1809, 4948, 1810, 4949, 1811, 4953, 1817, 4956, 1823, 4957, 1825, 4959, 1826, 4960, 1827, 4961, 1828, 4963, 1831, 4969, 1834, 4971, 1836, 4973, 1838, 4981, 1844, 4990, 1843, 4992, 1843, 4994, 1843, 4997, 1845, 5001, 1845, 5006, 1847, 5012, 1847, 5034, 1846, 5040, 1827, 5040, 1825, 5041, 1823, 5045, 1815, 5044, 1807, 5044, 1805, 5045, 1803, 5046, 1800, 5047, 1797, 5048, 1776, 5048, 1755, 5048, 1746, 5047, 1737, 5046, 1726, 5036, 1719, 5035, 1718, 5034, 1718, 5024, 1717, 5014, 1717, 5012, 1717, 5011, 1717, 5003, 1720, 4998, 1719, 4994, 1718, 4997, 1711, 5000, 1703, 4990, 1703, 4981, 1702, 4980, 1691, 4979, 1688, 4979, 1685, 4978, 1675, 4972, 1667, 4960, 1650, 4940, 1641, 4937, 1640, 4936, 1636, Q, 4935, 1632, 4921, 1626, Z]
       ],
-      "label": "Ulan Bator",
+      "label": "Ulaanbaatar",
       "shortLabel": "UB",
       "labelPosition": [491.3, 172.7],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "MN.HD"
     },
     "MN.HD": {
       "outlines": [
@@ -56,7 +60,8 @@ let M = 'M', // SVG MoveTo
       "label": "Khovd",
       "shortLabel": "HD",
       "labelPosition": [130.4, 207.5],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "MN.GS"
     },
     "MN.GS": {
       "outlines": [
@@ -65,7 +70,8 @@ let M = 'M', // SVG MoveTo
       "label": "Govisümber",
       "shortLabel": "GS",
       "labelPosition": [528.6, 224],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "MN.DA"
     },
     "MN.DA": {
       "outlines": [
@@ -74,7 +80,8 @@ let M = 'M', // SVG MoveTo
       "label": "Darkhan-Uul",
       "shortLabel": "DA",
       "labelPosition": [472.6, 117.8],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "MN.DZ"
     },
     "MN.DZ": {
       "outlines": [
@@ -83,7 +90,8 @@ let M = 'M', // SVG MoveTo
       "label": "Zavkhan",
       "shortLabel": "DZ",
       "labelPosition": [225.3, 166],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "MN.AR"
     },
     "MN.AR": {
       "outlines": [
@@ -92,7 +100,8 @@ let M = 'M', // SVG MoveTo
       "label": "Arkhangai",
       "shortLabel": "AR",
       "labelPosition": [340.1, 170.6],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "MN.BU"
     },
     "MN.BU": {
       "outlines": [
@@ -101,7 +110,8 @@ let M = 'M', // SVG MoveTo
       "label": "Bulgan",
       "shortLabel": "BU",
       "labelPosition": [395.5, 139.7],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "MN.SL"
     },
     "MN.SL": {
       "outlines": [
@@ -110,7 +120,8 @@ let M = 'M', // SVG MoveTo
       "label": "Selenge",
       "shortLabel": "SL",
       "labelPosition": [482.6, 102.5],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "MN.HN"
     },
     "MN.HN": {
       "outlines": [
@@ -119,7 +130,8 @@ let M = 'M', // SVG MoveTo
       "label": "Khentii",
       "shortLabel": "HN",
       "labelPosition": [578.3, 179.3],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "MN.SB"
     },
     "MN.SB": {
       "outlines": [
@@ -128,7 +140,8 @@ let M = 'M', // SVG MoveTo
       "label": "Sükhbaatar",
       "shortLabel": "SB",
       "labelPosition": [661.7, 233.3],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "MN.DG"
     },
     "MN.DG": {
       "outlines": [
@@ -137,7 +150,8 @@ let M = 'M', // SVG MoveTo
       "label": "Dornogovi",
       "shortLabel": "DG",
       "labelPosition": [560.7, 298.7],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "MN.DU"
     },
     "MN.DU": {
       "outlines": [
@@ -146,7 +160,8 @@ let M = 'M', // SVG MoveTo
       "label": "Dundgovi",
       "shortLabel": "DU",
       "labelPosition": [469.8, 263.5],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "MN.TO"
     },
     "MN.TO": {
       "outlines": [
@@ -155,7 +170,8 @@ let M = 'M', // SVG MoveTo
       "label": "Töv",
       "shortLabel": "TO",
       "labelPosition": [479.4, 191.3],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "MN.OH"
     },
     "MN.OH": {
       "outlines": [
@@ -164,7 +180,8 @@ let M = 'M', // SVG MoveTo
       "label": "Övörkhangai",
       "shortLabel": "OH",
       "labelPosition": [388.9, 254.6],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "MN.BH"
     },
     "MN.BH": {
       "outlines": [
@@ -173,7 +190,8 @@ let M = 'M', // SVG MoveTo
       "label": "Bayankhongor",
       "shortLabel": "BH",
       "labelPosition": [309.4, 276],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "MN.GA"
     },
     "MN.GA": {
       "outlines": [
@@ -182,7 +200,8 @@ let M = 'M', // SVG MoveTo
       "label": "Govi-Altai",
       "shortLabel": "GA",
       "labelPosition": [212.1, 272.6],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "MN.BO"
     },
     "MN.BO": {
       "outlines": [
@@ -191,7 +210,8 @@ let M = 'M', // SVG MoveTo
       "label": "Bayan-Ölgii",
       "shortLabel": "BO",
       "labelPosition": [60.1, 133.4],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "MN.UV"
     },
     "MN.UV": {
       "outlines": [
@@ -200,7 +220,8 @@ let M = 'M', // SVG MoveTo
       "label": "Uvs",
       "shortLabel": "UV",
       "labelPosition": [138.9, 108.9],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "MN.HG"
     },
     "MN.HG": {
       "outlines": [
@@ -209,7 +230,8 @@ let M = 'M', // SVG MoveTo
       "label": "Khövsgöl",
       "shortLabel": "HG",
       "labelPosition": [311.5, 89.3],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "MN.DD"
     },
     "MN.DD": {
       "outlines": [
@@ -218,7 +240,8 @@ let M = 'M', // SVG MoveTo
       "label": "Dornod",
       "shortLabel": "DD",
       "labelPosition": [680.9, 160.3],
-      "labelAlignment": [CEN, MID]
+      "labelAlignment": [CEN, MID],
+      "nextId": "MN.OG"
     },
     "MN.OG": {
       "outlines": [

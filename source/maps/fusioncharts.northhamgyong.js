@@ -5,7 +5,7 @@
  *
  * @author FusionCharts Technologies LLP
  * @meta package_map_pack
- * @id fusionmaps.NorthHamgyong.18.08-10-2012 01:12:10
+ * @id fusionmaps.NorthHamgyong.1.08-04-2017 02:59:47
  */
 
 let M = 'M', // SVG MoveTo
@@ -20,7 +20,7 @@ let M = 'M', // SVG MoveTo
   BTM = 'bottom',
   geodefinitions = [{
   "name": "NorthHamgyong",
-  "revision": 18,
+  "revision": 1,
   "standaloneInit": true,
   "baseWidth": 282,
   "baseHeight": 547,

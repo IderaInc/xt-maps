@@ -18,16 +18,24 @@
   "dependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
-    "babel-preset-env": "^1.6.0",
-    "webpack": "^3.6.0"
+    "babel-preset-env": "^1.6.0"
   },
   "devDependencies": {
+    "babel-plugin-syntax-dynamic-import": "^6.18.0",
+    "babel-plugin-transform-es3-member-expression-literals": "^6.22.0",
+    "babel-plugin-transform-es3-property-literals": "^6.22.0",
+    "babel-plugin-transform-proto-to-assign": "^6.26.0",
     "del": "2.2.1",
+    "fs-extra": "^6.0.1",
     "google-closure-compiler": "20160208.4.0",
     "gulp": "3.9.1",
     "gulp-wrap": "^0.13.0",
     "jshint": "2.4.2",
-    "metascript": "0.18.0"
+    "metascript": "0.18.0",
+    "simple-progress-webpack-plugin": "^1.1.2",
+    "uglifyjs-webpack-plugin": "^1.2.5",
+    "webpack": "^4.8.3",
+    "wrapper-webpack-plugin": "^2.0.0"
   },
   "scripts": {
     "test": "develop/ci/test/test",

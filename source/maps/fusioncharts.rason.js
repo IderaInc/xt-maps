@@ -5,7 +5,7 @@
  *
  * @author FusionCharts Technologies LLP
  * @meta package_map_pack
- * @id fusionmaps.Rason.18.08-13-2012 10:47:02
+ * @id fusionmaps.Rason.1.08-04-2017 02:59:47
  */
 
 let M = 'M', // SVG MoveTo
@@ -20,7 +20,7 @@ let M = 'M', // SVG MoveTo
   BTM = 'bottom',
   geodefinitions = [{
   "name": "Rason",
-  "revision": 18,
+  "revision": 1,
   "standaloneInit": true,
   "baseWidth": 199,
   "baseHeight": 242,

@@ -1,3 +1,11 @@
+
+(function (factory) {
+  if (typeof module === 'object' && typeof module.exports !== "undefined") {
+      module.exports = factory;
+  } else {
+      factory(FusionCharts);
+  }
+}(function (FusionCharts) {
 /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
 /******/ 	var installedModules = {};
@@ -44,6 +52,11 @@
 /******/ 		}
 /******/ 	};
 /******/
+/******/ 	// define __esModule on exports
+/******/ 	__webpack_require__.r = function(exports) {
+/******/ 		Object.defineProperty(exports, '__esModule', { value: true });
+/******/ 	};
+/******/
 /******/ 	// getDefaultExport function for compatibility with non-harmony modules
 /******/ 	__webpack_require__.n = function(module) {
 /******/ 		var getter = module && module.__esModule ?
@@ -59,41 +72,30 @@
 /******/ 	// __webpack_public_path__
 /******/ 	__webpack_require__.p = "";
 /******/
+/******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 423);
+/******/ 	return __webpack_require__(__webpack_require__.s = 390);
 /******/ })
 /************************************************************************/
 /******/ ({
 
-/***/ 0:
-/***/ (function(module, exports) {
-
-module.exports = FusionCharts;
-
-/***/ }),
-
-/***/ 423:
+/***/ 390:
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
-var _FusionCharts = __webpack_require__(0);
-
-var _FusionCharts2 = _interopRequireDefault(_FusionCharts);
-
-var _fusioncharts = __webpack_require__(424);
+var _fusioncharts = __webpack_require__(391);
 
 var _fusioncharts2 = _interopRequireDefault(_fusioncharts);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { 'default': obj }; }
 
-_FusionCharts2['default'].addDep(_fusioncharts2['default']);
-_FusionCharts2['default'].addFile('fusioncharts.texas.js');
+FusionCharts.addDep(_fusioncharts2['default']);
 
 /***/ }),
 
-/***/ 424:
+/***/ 391:
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -1934,3 +1936,4 @@ exports['default'] = {
 /***/ })
 
 /******/ });
+}));

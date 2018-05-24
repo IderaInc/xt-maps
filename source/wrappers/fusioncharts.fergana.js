@@ -1,5 +1,0 @@
-import FusionCharts from 'FusionCharts';
-import fergana from '../maps/fusioncharts.fergana';
-
-FusionCharts.addDep(fergana);
-FusionCharts.addFile('fusioncharts.fergana.js');
