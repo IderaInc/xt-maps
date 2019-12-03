@@ -104,10 +104,10 @@ FusionCharts.addDep(_fusioncharts2['default']);
 exports.__esModule = true;
 /**!
  * @license FusionCharts JavaScript Library
- * Copyright FusionCharts Technologies LLP
+ * Copyright InfoSoft Global Pvt. Ltd.
  * License Information at <http://www.fusioncharts.com/license>
  *
- * @author FusionCharts Technologies LLP
+ * @author InfoSoft Global Pvt. Ltd.
  * @meta package_map_pack
  * @id fusionmaps.EasternVisayas.1.03-02-2017 04:08:38
  */

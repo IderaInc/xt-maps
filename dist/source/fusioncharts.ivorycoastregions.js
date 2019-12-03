@@ -119,10 +119,10 @@ FusionCharts.addDep(_fusioncharts2['default']);
 exports.__esModule = true;
 /**!
  * @license FusionCharts JavaScript Library
- * Copyright FusionCharts Technologies LLP
+ * Copyright InfoSoft Global Pvt. Ltd.
  * License Information at <http://www.fusioncharts.com/license>
  *
- * @author FusionCharts Technologies LLP
+ * @author InfoSoft Global Pvt. Ltd.
  * @meta package_map_pack
  * @id fusionmaps.IvoryCoastRegions.1.12-20-2018 09:07:13
  */

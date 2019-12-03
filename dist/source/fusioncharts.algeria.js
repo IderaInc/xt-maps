@@ -104,10 +104,10 @@ FusionCharts.addDep(_fusioncharts2['default']);
 exports.__esModule = true;
 /**!
  * @license FusionCharts JavaScript Library
- * Copyright FusionCharts Technologies LLP
+ * Copyright InfoSoft Global Pvt. Ltd.
  * License Information at <http://www.fusioncharts.com/license>
  *
- * @author FusionCharts Technologies LLP
+ * @author InfoSoft Global Pvt. Ltd.
  * @meta package_map_pack
  * @id fusionmaps.Algeria.20.12-26-2012 10:30:24
  */
