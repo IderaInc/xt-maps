@@ -120,7 +120,7 @@ exports.__esModule = true;
  * Copyright InfoSoft Global Pvt. Ltd.
  * License Information at <http://www.fusioncharts.com/license>
  *
- * @author FusionCharts Technologies LLP
+ * @author InfoSoft Global Pvt. Ltd.
  * @meta package_map_pack
  * @id fusionmaps.Agadez.1.12-03-2019 10:39:11
  */

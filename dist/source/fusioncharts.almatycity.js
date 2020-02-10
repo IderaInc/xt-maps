@@ -120,7 +120,7 @@ exports.__esModule = true;
  * Copyright InfoSoft Global Pvt. Ltd.
  * License Information at <http://www.fusioncharts.com/license>
  *
- * @author FusionCharts Technologies LLP
+ * @author InfoSoft Global Pvt. Ltd.
  * @meta package_map_pack
  * @id fusionmaps.AlmatyCity.1.12-10-2019 09:50:52
  */

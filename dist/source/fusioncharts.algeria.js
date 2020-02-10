@@ -120,7 +120,7 @@ exports.__esModule = true;
  * Copyright InfoSoft Global Pvt. Ltd.
  * License Information at <http://www.fusioncharts.com/license>
  *
- * @author FusionCharts Technologies LLP
+ * @author InfoSoft Global Pvt. Ltd.
  * @meta package_map_pack
  * @id fusionmaps.Algeria.1.01-28-2020 08:00:56
  */
