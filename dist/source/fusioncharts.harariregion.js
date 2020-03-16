@@ -102,10 +102,10 @@ FusionCharts.addDep(_fusioncharts2['default']);
 exports.__esModule = true;
 /**!
  * @license FusionCharts JavaScript Library
- * Copyright InfoSoft Global Pvt. Ltd.
+ * Copyright FusionCharts, Inc.
  * License Information at <http://www.fusioncharts.com/license>
  *
- * @author InfoSoft Global Pvt. Ltd.
+ * @author FusionCharts, Inc.
  * @meta package_map_pack
  * @id fusionmaps.HarariRegion.1.05-03-2017 12:10:07
  */
