@@ -104,10 +104,10 @@ FusionCharts.addDep(_fusioncharts2['default']);
 exports.__esModule = true;
 /**!
  * @license FusionCharts JavaScript Library
- * Copyright InfoSoft Global Pvt. Ltd.
+ * Copyright FusionCharts, Inc.
  * License Information at <http://www.fusioncharts.com/license>
  *
- * @author InfoSoft Global Pvt. Ltd.
+ * @author FusionCharts, Inc.
  * @meta package_map_pack
  * @id fusionmaps.Tasmania.18.08-14-2012 11:31:28
  */
