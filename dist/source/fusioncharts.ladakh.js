@@ -134,11 +134,11 @@ LFT = 'left',
   "baseWidth": 700,
   "baseHeight": 530,
   "baseScaleFactor": 10,
-  "firstEntity": "IN.JK.UM",
+  "firstEntity": "IN.LA.LE",
   "entities": {
    
     
-    "IN.JK.LE": {
+    "IN.LA.LE": {
       "options": {
         "isDataEnabled": true
       },
@@ -153,11 +153,11 @@ LFT = 'left',
         "labelPosition": [495.7, 318.8],
         "labelAlignment": [CEN, MID]
       }],
-      "nextId": "IN.JK.KU"
+      "nextId": "IN.LA.KR"
     },
    
     
-    "IN.JK.KR": {
+    "IN.LA.KR": {
       "options": {
         "isDataEnabled": true
       },
@@ -171,8 +171,7 @@ LFT = 'left',
         "shortText": "KR",
         "labelPosition": [337.8, 306.4],
         "labelAlignment": [CEN, MID]
-      }],
-      "nextId": "IN.JK.JM"
+      }]
     },
     
    

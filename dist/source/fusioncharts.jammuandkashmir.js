@@ -356,7 +356,7 @@ LFT = 'left',
         "labelPosition": [275.7, 497.5],
         "labelAlignment": [CEN, MID]
       }],
-      "nextId": "IN.JK.KR"
+      "nextId": "IN.JK.JM"
     },
     "IN.JK.JM": {
       "options": {
