@@ -89,19 +89,17 @@
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 2);
+/******/ 	return __webpack_require__(__webpack_require__.s = 0);
 /******/ })
 /************************************************************************/
 /******/ ([
-/* 0 */,
-/* 1 */,
-/* 2 */
+/* 0 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
-var _fusioncharts = __webpack_require__(3);
+var _fusioncharts = __webpack_require__(1);
 
 var _fusioncharts2 = _interopRequireDefault(_fusioncharts);
 
@@ -110,7 +108,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { 'd
 FusionCharts.addDep(_fusioncharts2['default']);
 
 /***/ }),
-/* 3 */
+/* 1 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -148,7 +146,7 @@ LFT = 'left',
     "creditLabel": credits,
     "standaloneInit": false,
     "baseWidth": 522,
-    "baseHeight": 503,
+    "baseHeight": 820,
     "baseScaleFactor": 10,
 
     "firstEntity": "PE.AP.CH",
