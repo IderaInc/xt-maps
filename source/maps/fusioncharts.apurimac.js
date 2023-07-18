@@ -25,7 +25,7 @@ let M = 'M', // SVG MoveTo
     "creditLabel": credits,
     "standaloneInit": false,
     "baseWidth": 522,
-    "baseHeight": 820,
+    "baseHeight": 503,
     "baseScaleFactor": 10,
 
     "firstEntity": "PE.AP.CH",
